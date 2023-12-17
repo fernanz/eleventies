@@ -1,6 +1,6 @@
 ---
-title: A post page
-date: 2018-03-21
+title: Un nuevo despertar
+date: 2023-12-15
 ---
 
 There's not much here in the sample post page. Better get to work.
