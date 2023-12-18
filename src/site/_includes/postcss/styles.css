@@ -154,9 +154,14 @@ a:focus {
     width: 100%;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
     position: relative;
+}
+
+.img-container img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 code {
