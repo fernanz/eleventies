@@ -79,14 +79,14 @@ p {
 
 .subtitle {
   font-family: Bebas Neue;
-  font-size: 1.7em;
+  font-size: 1.5em;
   margin-top: 1em;
   margin-bottom: 5em;
 }
 
 .bebas {
-  font-family: Bebas Neue;
-  font-size: 1.4em;}
+  font-weight: 600;
+}
 
 ul, ol {
   padding-left: 1em;
