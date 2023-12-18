@@ -150,20 +150,18 @@ a:focus {
   }
 }
 
-.img-container {
-    width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    position: relative;
+img.wide {
+  max-width: 100%;
 }
 
-.img-container img {
-  width: 100%;
-  max-width: 100%;
-  position: absolute;
+.full-width {
+  width: 100vw;
+  position: relative;
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  z-index: 0;
 }
 
 code {
