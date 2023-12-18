@@ -21,8 +21,7 @@ body{
     font-weight:300;
     font-size:16px;
     line-height:1.8;
-    min-height:100vh;
-    background-image:url("/images/bg-grid.png")
+    min-height:100vh
 }
 @media (min-width: 740px){
     body{
@@ -46,7 +45,7 @@ body{
     }
 }
 h1,h2,h3{
-    color:#fff;
+    color:#1a1a1a;
     font-weight:600;
     margin-top:2em;
     margin-bottom:0.2em;
@@ -81,12 +80,12 @@ ul,ol{
     padding-left:1em
 }
 a:link,a:visited{
-    color:#fff;
+    color:#bada55;
     text-decoration:none;
     border-bottom:solid 1px #4c688d
 }
 a:hover,a:focus{
-    color:#fff;
+    color:#bada55;
     border-bottom:solid 1px #fff
 }
 .nav{
@@ -105,11 +104,11 @@ a:hover,a:focus{
     margin-right:0.7em;
     width:8em;
     text-align:left;
-    color:#d7dde6;
+    color:#c8c8c8;
     text-decoration:none
 }
 .nav a:hover,.nav a:focus{
-    color:#fff;
+    color:#c8c8c8;
     border-top:solid 1px #213b5c;
     border-bottom-style:none
 }
