@@ -1,5 +1,6 @@
 ---
 title: Un nuevo despertar
+description: Esta parte contiene una línea de texto que describe brevemente el contenido del post.
 date: 2023-12-15
 ---
 
