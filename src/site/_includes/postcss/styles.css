@@ -152,10 +152,7 @@ a:focus {
 
 .img-container {
     width: 100%;
-    height: 200px;
-    max-height: 240px;
-    overflow: hidden;
-    margin: 0;
+    margin: 0 auto;
     position: relative;
 }
 
