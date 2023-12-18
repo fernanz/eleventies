@@ -4,18 +4,18 @@
 }
 ::-moz-selection{
     background-color:#fff;
-    color:#385780
+    color:#fff
 }
 ::selection{
     background-color:#fff;
-    color:#385780
+    color:#fff
 }
 html{
     background-color:#fff;
 }
 body{
     text-align:center;
-    background-color:#385780;
+    background-color:#fff;
     color:#1a1a1a;
     font-family:sans-serif;
     font-weight:300;
