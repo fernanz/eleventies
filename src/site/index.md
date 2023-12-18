@@ -32,7 +32,7 @@ The pages found in in the posts
 </ul>
 
 <div class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1597881797/l5dx8nabbtaie6kw292v.jpg"/>
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1574739210/iyq4p4hf2ga6kqgrcxrb.png"/>
 </div>
 
 ## Links from an external data source
