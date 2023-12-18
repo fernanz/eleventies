@@ -4,6 +4,9 @@ subtitle: A project scaffold for getting building with Eleventy quickly.<br /> M
 layout: layouts/base.njk
 ---
 
+<div class="full-width">
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1597881797/l5dx8nabbtaie6kw292v.jpg"/>
+</div>
 
 ## This site is a starting point
 
@@ -16,10 +19,6 @@ From this point we should already have:
 - JS [search index](/search.json) generator
 - [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
 - Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
-
-<div class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1597881797/l5dx8nabbtaie6kw292v.jpg"/>
-</div>
 
 ## Post pages
 
