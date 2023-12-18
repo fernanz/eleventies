@@ -4,9 +4,6 @@ subtitle: A project scaffold for getting building with Eleventy quickly.<br /> M
 layout: layouts/base.njk
 ---
 
-<div class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1597881797/l5dx8nabbtaie6kw292v.jpg"/>
-</div>
 
 ## This site is a starting point
 
@@ -33,6 +30,10 @@ The pages found in in the posts
   <p>{{ page.data.description }}</p>
 {%- endfor -%}
 </ul>
+
+<div class="full-width">
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1597881797/l5dx8nabbtaie6kw292v.jpg"/>
+</div>
 
 ## Links from an external data source
 
