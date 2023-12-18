@@ -160,7 +160,6 @@ img.wide {
   position: relative;
   left: 50%;
   right: 50%;
-  margin-top: 1em;
   margin-left: -50vw;
   margin-right: -50vw;
   z-index: 0;
