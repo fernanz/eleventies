@@ -112,8 +112,9 @@ p {
   margin-bottom: 2.7em;
 }
 
-.bebas {
-  font-size: 17px;
+.ptsans {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
   font-weight: 700;
 }
 
