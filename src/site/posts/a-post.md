@@ -4,7 +4,7 @@ description: Esta parte contiene una línea de texto que describe brevemente el 
 date: 2023-12-15
 ---
 
-![Imagen de ejemplo]("https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg")
+![Imagen de ejemplo](https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg)
 
 There's not much here in the sample post page. Better get to work.
 
