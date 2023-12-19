@@ -78,14 +78,14 @@ section {
 }
 
 div.container > img {
-  width: 100%;
+  width: 90%;
   margin-top: 1.7em;
   margin-bottom: 1.7em;
   @media (min-width: $mid) {
-    width: 600px;
+    width: 90vw;
   };
   @media (min-width: $wide) {
-    width: 700px;
+    width: 90vw;
   };
 }
 
