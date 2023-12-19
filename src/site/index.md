@@ -24,7 +24,7 @@ The pages found in in the posts
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
   <li>
-    <a class="bebas" href="{{ page.url }}">{{ page.data.title }}</a> -
+    <a class="ptsans" href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
   </li>
   <p class="descriptor">{{ page.data.description }}</p>
