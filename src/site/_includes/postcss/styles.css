@@ -79,9 +79,15 @@ section {
 
 .container > img {
   width: 100%;
-  margin-top: 2em;
+  margin-top: 1.7em;
   margin-bottom: 1.7em;
-  }
+  @media (min-width: $mid) {
+    width: 600px;
+  };
+  @media (min-width: $wide) {
+    width: 700px;
+  };
+}
 
 h1, h2, h3 {
   color: $text-color;
