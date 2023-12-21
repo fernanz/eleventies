@@ -40,6 +40,10 @@ Otra vez en línea, escribiendo para aprender.
 {%- endfor -%}
 </ul>
 
+<div class="full-width">
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1703179584/IMG_0865_xkkqkk.jpg"/>
+</div>. 
+
 ## Guayaquil 1929 por Carlos Endara A.  
 - [YouTube](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_).  
 
