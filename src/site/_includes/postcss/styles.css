@@ -239,6 +239,15 @@ pre {
   }
 }
 
+table {
+  width: 100%
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+  
 
 footer {
   margin-top: 6em;
