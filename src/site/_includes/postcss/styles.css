@@ -196,6 +196,12 @@ img.wide {
   padding-top: 0.8em;
 }
 
+img.wide-opaque {
+  max-width: 100%;
+  padding-top: 0.8em;
+  filter: opacity(45%);
+}
+
 .full-width {
   width: 100vw;
   position: relative;
