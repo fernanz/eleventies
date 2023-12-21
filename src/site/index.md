@@ -1,30 +1,31 @@
 ---
 title: SinNombre
-subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y curiosidades del mundo antiguo.
+subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y literatura del mundo antiguo y no tan antiguo.
 layout: layouts/base.njk
 ---
 
 
-## En este mes
+## Enero 2024 
 
-Datos obtenidos de almanaques y medios digitales:
+Data de almanaques y medios digitales:
 
 - [Eleventy](https://11ty.io) with a skeleton site
 - A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
 - A tiny CSS pipeline with PostCSS
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
 - JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de enero se la denomina LUNA DE NIEVE / LUNA DE LOBO.
+- Este mes tendremos una luna llena en Leo.
+- Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
   
-| Item              | In Stock 	| Price |
+| Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
-| Python Hat        |   True   	| 23.99 |
-| SQL Hat           |   True   	| 23.99 |
-| Codecademy Tee    |  False   	| 19.99 |
-| Codecademy Hoodie |  False   	| 42.99 |  
+| Menguante        |   Miércoles 03.01.2024   	| 22:30 |
+| Nueva           |   Jueves 11.01.2024   	| 06:57 |
+| Creciente    |  Miércoles 17.01.2024   	| 22:52 |
+| Llena |  Jueves 25.01.2024   	| 12:53 |  
 
 <br/>  
 
