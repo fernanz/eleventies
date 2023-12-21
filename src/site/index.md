@@ -14,7 +14,7 @@ Data de almanaques y medios digitales:
 - A tiny CSS pipeline with PostCSS
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
 - JS [search index](/search.json) generator
-- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de enero se la denomina LUNA DE NIEVE / LUNA DE LOBO.
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de enero se la denomina LUNA DE LOBO / LUNA DE NIEVE.
 - Este mes tendremos una luna llena en Leo.
 - Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
