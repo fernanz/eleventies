@@ -58,7 +58,7 @@ A serverless functions pipeline is included via Netlify Dev. By running `netlify
 - [/.netlify/functions/fetch-joke](/.netlify/functions/fetch-joke). 
 
 <div class="full-width">
-<img class="wide-opaque" src="https://res.cloudinary.com/magnvs/image/upload/v1703179584/IMG_0865_xkkqkk.jpg"/>
+<img class="wide-opaque" src="https://res.cloudinary.com/magnvs/image/upload/v1703186743/IMG_0867_ft0n86.jpg"/>
 </div>
 
 
