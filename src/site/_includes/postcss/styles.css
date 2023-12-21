@@ -199,7 +199,7 @@ img.wide {
 img.wide-opaque {
   max-width: 100%;
   padding-top: 0.8em;
-  filter: opacity(45%);
+  filter: opacity(15%);
 }
 
 .full-width {
