@@ -9,11 +9,7 @@ layout: layouts/base.njk
 
 Data de almanaques y medios digitales:
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
+- Como ya es tradición, la Diablada Pillareña (Cantón Pillaro, Prov. Tungurahua) *-declarada patrimonio cultural inmaterial del Ecuador-* se celebra del 1 al 6 de enero. Más detalles en el portal digital del [Diario la Hora](https://www.lahora.com.ec/tungurahua/conoce-partidas-seran-parte-diablada-pillarena-2024/).
 - En las tradiciones del hemisferio norte (América y Europa), a la luna llena de enero se la denomina LUNA DE LOBO / LUNA DE NIEVE; algunas culturas nativas de Norte América cuentan que en esta temporada era más probable escuchar a los lobos aullando. 
 - Este mes tendremos una **luna llena en Leo**. Recuerda: las lunas llenas, a nivel astrológico, son tiempos de cosecha. ¿Qué es lo que vamos a cosechar; será acaso aquello que sembramos en la luna nueva en Leo, hace seis meses? -16.08.2023-.  
 - Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
