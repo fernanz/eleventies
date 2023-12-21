@@ -40,13 +40,14 @@ Otra vez en línea, escribiendo para aprender.
 {%- endfor -%}
 </ul>
 
+## Guayaquil 1929 por Carlos Endara A.  
+- [YouTube](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_).  
+
+- Primera parte de la película filmada por el fotógrafo y artista Carlos Endara Andrade en donde detalla su visita a Guayaquil en 1929, esta es la versión ampliada de la descripción histórica de la ciudad con la contribución de Melvin Hoyos G. La película fue rescatada por la Universidad Andina Simón Bolívar - Sede Ecuador - con el aporte de la M. I. Municipalidad de Guayaquil en el año 2019. La restauración y rescate de la película la realizó el cineasta Álex Schlenker. 
+
 <div class="full-width">
 <img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1569034596/wzsgteeuryfsesmxjcig.png"/>
 </div>
-
-## Sitios recomendados
-
-- [Node and NPM](https://nodejs.org/)
 
 ## Para leer
 
