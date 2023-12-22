@@ -26,7 +26,7 @@ Data de almanaques y medios digitales:
 
 <br/>  
 
-## Recientes artículos
+<h2 style="color:brown;">Recientes artículos</h2>
 
 Otra vez en línea, escribiendo para aprender.
 
