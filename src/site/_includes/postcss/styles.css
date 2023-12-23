@@ -143,7 +143,7 @@ p {
 }
 
 .pearl-river {
-  background-color: #D9DDDC;
+  background-color: rgba(217,221,220,0.5);
   margin: auto -1.1em;
   padding: 1em 1.5em 1.6em 1.5em;
 }
@@ -160,6 +160,7 @@ p {
 
 .meta-river > h2 {
   margin-top:1em;
+  color: white;
 }
 
 .ocre-river {
