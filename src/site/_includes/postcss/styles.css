@@ -79,15 +79,15 @@ section {
 
 figure {
 	width: 105%;
-  margin: 0;
+  margin: 0 0 0 -15px;
   padding: 0;
 }
 
 figcaption {
   font-size: 0.8em;
   font-style: italic;
-  top-padding: 5px;
-  top-margin: 0;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 img {
@@ -144,7 +144,7 @@ p {
 
 .pearl-river {
   background-color: #D9DDDC;
-  margin: auto -1.2em;
+  margin: auto -1.1em;
   padding: 1em 1.5em 1.6em 1.5em;
 }
 
@@ -154,7 +154,7 @@ p {
 
 .meta-river {
   background-color: #a0d9e5;
-  margin: 0 -1.2em;
+  margin: 0 -1.1em;
   padding: 1.4em 1.3em 1.5em 1.3em;
 }
 
@@ -164,7 +164,7 @@ p {
 
 .ocre-river {
   background-color: #F9EC9B;
-  margin: auto -1.2em;
+  margin: auto -1.1em;
   padding: 1em 1.5em 1.6em 1.5em;
 }
 
