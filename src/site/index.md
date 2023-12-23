@@ -25,7 +25,7 @@ Data de almanaques y medios digitales:
 | Llena |  Jueves 25.01.2024   	| 12:53 |  
 
 <br/>  
-<div class="pearl-river">
+<div class="ocre-river">
 <h2 style="color:brown;">Recientes artículos</h2>
 
 Otra vez en línea, escribiendo para aprender.
