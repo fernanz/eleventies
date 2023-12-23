@@ -58,7 +58,6 @@ Otra vez en línea, escribiendo para aprender.
 
 A serverless functions pipeline is included via Netlify Dev. By running `netlify dev` you'll be able to execute any of your serverless functions directly like this:
 
-- [/.netlify/functions/hello](/.netlify/functions/hello)
 - [/.netlify/functions/fetch-joke](/.netlify/functions/fetch-joke). 
 
 </div>  
@@ -68,6 +67,8 @@ A serverless functions pipeline is included via Netlify Dev. By running `netlify
 <figcaption> Perfil (2014). Madera petrificada. Manuel Velasteguí.</figcaption>
 </figure>
 
+
+Finalmente, por cortesía de Netlify: [Un chiste en inglés](/.netlify/functions/fetch-joke). 
 
 
 
