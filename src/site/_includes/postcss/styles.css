@@ -136,7 +136,7 @@ p {
 }
 
 .pearl-river > h2 {
-  margin-top:.7em;
+  margin-top:1em;
 }
 
 .meta-river {
@@ -146,8 +146,19 @@ p {
 }
 
 .meta-river > h2 {
-  margin-top:.7em;
+  margin-top:1em;
 }
+
+.ocre-river {
+  background-color: #F9EC9B;
+  margin: auto -1.2em;
+  padding: 1em 1.5em 1.6em 1.5em;
+}
+
+.ocre-river > h2 {
+  margin-top: 1em;
+}
+
 ul, ol {
   padding-left: 1em;
 }
