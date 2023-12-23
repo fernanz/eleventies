@@ -78,8 +78,8 @@ section {
 }
 
 figure {
-	width: 105%;
-  margin: 0 0 0 -12px;
+	width: auto;
+  margin: 0;
   padding: 0;
 }
 
