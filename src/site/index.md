@@ -25,7 +25,7 @@ Data de almanaques y medios digitales:
 | Llena |  Jueves 25.01.2024   	| 12:53 |  
 
 <br/>  
-
+<div style="background-color:#D9DDDC">
 <h2 style="color:brown;">Recientes artículos</h2>
 
 Otra vez en línea, escribiendo para aprender.
@@ -40,6 +40,7 @@ Otra vez en línea, escribiendo para aprender.
 {%- endfor -%}
 </ul>
 
+</div>
 ## Guayaquil 1929 por Carlos Endara A.  
 
 <div class="full-width">
