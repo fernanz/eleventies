@@ -198,6 +198,11 @@ a:focus {
   border-bottom-style:none;
 }
 
+.nakedLink > img,
+.nakedLink > svg {
+  width: 20%
+}
+
 .nav {
   padding-top: 3em;
 
