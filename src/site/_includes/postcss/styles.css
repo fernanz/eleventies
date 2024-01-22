@@ -198,7 +198,7 @@ a:focus {
   border-bottom-style:none;
 }
 
-.nakedLink > a > img {
+.nakedLink > a > svg {
   width: 20%
 }
 
