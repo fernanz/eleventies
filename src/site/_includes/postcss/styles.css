@@ -198,7 +198,7 @@ a:focus {
   border-bottom-style:none;
 }
 
-.nakedLink > img {
+.nakedLink > a > img {
   width: 20%
 }
 
