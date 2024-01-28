@@ -5,7 +5,7 @@ templateEngineOverride: njk, md
 ---
 
 <p class="date">
-  Desde mi escritorio en Amabto, el <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+  Desde mi escritorio en Ambato, el <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 <main>
   {{ content | safe }}
