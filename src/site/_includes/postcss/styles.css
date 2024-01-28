@@ -99,7 +99,7 @@ img {
 .fit {
  objet-fit: cover;
  aspect-ratio: 16/9;
- max-block-size:750px;
+ max-block-size:800px;
 } 
 
 h1, h2, h3 {
