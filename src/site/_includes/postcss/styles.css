@@ -100,6 +100,7 @@ img {
  objet-fit: cover;
  aspect-ratio: 16/9;
  max-block-size:800px;
+ padding-top: .4em;
 } 
 
 h1, h2, h3 {
