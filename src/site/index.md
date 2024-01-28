@@ -63,7 +63,7 @@ A serverless functions pipeline is included via Netlify Dev. By running `netlify
 </div>  
 
 <figure>
-<img src="https://res.cloudinary.com/magnvs/image/upload/v1703369607/IMG_0885_gafzol.jpg"/>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1703369607/IMG_0885_gafzol.jpg"/>
 <figcaption> Perfil (2014). Madera petrificada. Manuel Velasteguí.</figcaption>
 </figure>
 
