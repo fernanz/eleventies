@@ -11,7 +11,7 @@ templateEngineOverride: njk, md
   {{ content | safe }}
   <div class="footnote">
     <p>
-      Si te es de utilidad este art{iculo, no olvides citarlo correctamente.
+      Si te es de utilidad este artículo, no olvides citarlo correctamente.
     </p>
   </div>
 </main>
