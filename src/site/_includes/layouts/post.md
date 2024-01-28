@@ -5,13 +5,13 @@ templateEngineOverride: njk, md
 ---
 
 <p class="date">
-  Posted as an example, on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+  Desde mi escritorio en Amabto, el <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 <main>
   {{ content | safe }}
   <div class="footnote">
     <p>
-      This page is part of the posts section.
+      Si te es de utilidad este art{iculo, no olvides citarlo correctamente.
     </p>
   </div>
 </main>
