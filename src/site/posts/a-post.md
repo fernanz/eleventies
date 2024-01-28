@@ -17,7 +17,7 @@ Habiéndose graduado en 1960 de bachiller en el Colegio Benigno Malo de la ciuda
 En 1966  ingresó como profesor de Dibujo, Pintura y Escultura al Colegio Experimental Americano de Cuenca, es mismo año, escribe, el cronista Pérez Pimentel, por encargo del Club Rotario de Cuenca realizó el monumento a la Madre Cuencana. 
 
 
-En el año siguiente, 1967, junto a su padre Daniel trabajó en la materialización del monumento a Juan León Mera y la alegoría de Cumandá para la ciudad de Ambato: “Esta primera obra en esa ciudad le abrió la posibilidad de otras muchas, se hizo de un nombre y la crítica aplaudió sin restricciones lo suyo” (Pérez, 2004).  Al respecto, es importante notar lo que señala el historiador Gerardo Nicola G. (2020) en una breve reseña biográfica del padre del escultor, Daniel Palacio​: “En 1966, fue contratado por el estado ecuatoriano, a instancias de Gerardo Nicola López, promotor de la estatua de don Juan León Mera​, para la realización del monumento al cantor de la patria”.
+En el año siguiente, 1967, junto a su padre Daniel trabajó en la materialización del monumento a Juan León Mera y la alegoría de Cumandá para la ciudad de Ambato: *“Esta primera obra en esa ciudad le abrió la posibilidad de otras muchas, se hizo de un nombre y la crítica aplaudió sin restricciones lo suyo”* (Pérez, 2004).  Al respecto, es importante notar lo que señala el historiador Gerardo Nicola G. (2020) en una breve reseña biográfica del padre del escultor, Daniel Palacio​: *“En 1966, fue contratado por el estado ecuatoriano, a instancias de Gerardo Nicola López, promotor de la estatua de don Juan León Mera​, para la realización del monumento al cantor de la patria”*.
 
 
 En 1969, por invitación del Departamento Cultural del Gobierno de Estados Unidos de América realizó una visita cultural de tres meses a las ciudades de Washington, New York, Pennsylvania, Chicago, San Francisco, Los Ángeles y Miami.
@@ -38,7 +38,7 @@ Entre su obra de escultura monumental pública destacada, además de la ya menci
 Es importante recoger el criterio del intelectual Hernán Rodríguez Castelo (1988) quien señala:
 
 
-“Paul Palacio Collman ha hecho escultura monumental con fines de ornamentación pública y ello lo ha constreñido a un figurativismo más bien obvio; pero varias de sus piezas son nobles y bellas, finamente estilizadas (Su “Cumandá”, la estatua de Luis A. Martínez, sus gráciles maternidades)”.
+> *“Paul Palacio Collman ha hecho escultura monumental con fines de ornamentación pública y ello lo ha constreñido a un figurativismo más bien obvio; pero varias de sus piezas son nobles y bellas, finamente estilizadas (Su “Cumandá”, la estatua de Luis A. Martínez, sus gráciles maternidades)”.*
 
 
 Como se podrá apreciar líneas más adelante, la abundante producción del escultor gira en torno al retrato, tanto bustos como estatuas, ya sean como monumentos públicos o de carácter privado. 
