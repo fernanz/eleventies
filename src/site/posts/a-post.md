@@ -34,7 +34,7 @@ Inició su experiencia con la cátedra universitaria en 1970 en la Academia de A
 En 1973 fija su residencia en la ciudad de Guayaquil y, desde 1986 vive en la provincia de Santa Elena donde estableció su taller de fundición.
 
 
-Entre su obra de escultura monumental pública destacada, además de la ya mencionada, se incluyen el monumento a Luis A. Martínez, el monumento al Libertador Simón Bolívar y el Monumento Nacional a la Segunda Constituyente en la ciudad de Ambato; los murales del Guayaquil Aborigen, Guayaquil Colonial e Independiente para el Palacio Municipal de Guayaquil y la estatua del ex presidente Emilio Estrada Carmona también en Guayaquil.
+Entre su obra de escultura monumental pública destacada, además de la ya mencionada, se incluyen las estatuas de Luis A. Martínez, Juan Benigno Vela, la del Libertador Simón Bolívar y el Monumento Nacional a la Segunda Constituyente todas en la ciudad de Ambato; los murales del Guayaquil Aborigen, Guayaquil Colonial e Independiente para el Palacio Municipal de Guayaquil y la estatua del ex presidente Emilio Estrada Carmona también en Guayaquil.
 
 
 Es importante recoger el criterio del intelectual Hernán Rodríguez Castelo (1988) quien señala:
@@ -89,6 +89,7 @@ Primeras obras 1965 - 1969:
 * Busto de Carlos Mantilla Ortega, 1.50 m bronce (Quito).
 * Busto de José Zambrano, 1.20 m bronce (Calceta).
 * Busto de Teófilo Cedeño, 1.20 m bronce (Calceta).
+* Monumento de don Juan Benigno Vela (Ambato).
 * Monumento de Simón Bolívar, 3 m bronce (Cuenca).
 * Monumento de Severo Espinoza, 3 m bronce (Cuenca).
 * Monumento al Hno. Miguel, 3 m bronce (Cuenca).
