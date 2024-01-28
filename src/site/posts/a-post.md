@@ -1,5 +1,6 @@
 ---
-title: Paúl Palacio Collman, reseña biográfica y obra
+title: Paúl Palacio Collman
+date: 2024-01-027
 description: Ambato le debe al escultor Palacio Collman sus más bellos monumentos que la engalanan haciendo homenaje a insignes hijos y a su historia.date: 2024-01-27
 ---
 
