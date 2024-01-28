@@ -1,7 +1,7 @@
 ---
 title: Paúl Palacio Collman
+description: Ambato le debe al escultor Palacio Collman sus más bellos monumentos que la engalanan haciendo homenaje a insignes hijos y a su historia.
 date: 2024-01-27
-description: Ambato le debe al escultor Palacio Collman sus más bellos monumentos que la engalanan haciendo homenaje a insignes hijos y a su historia.date: 2024-01-27
 ---
   
 
