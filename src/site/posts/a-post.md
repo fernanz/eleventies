@@ -124,13 +124,13 @@ Primeras obras 1965 - 1969:
 * Monumento a Emilio Estrada Carmona - inaugurado en el 2005, 2.80 m bronce (Guayaquil). 
 
 
-Fuentes:
-* Pérez Pimentel, R. (2004): “Diccionario Biográfico del Ecuador”. Universidad de Guayaquil, Guayaquil.
-* Rodríguez Castelo, H. (2006): “Nuevo diccionario crítico de artistas plásticos del Ecuador del siglo XX”. Centro Cultural Benjamín Carrión - Municipio metropolitano de Quito, Quito.
-* Rodríguez Castelo, H. (1988): “El siglo XX de las artes visuales  en Ecuador”. Banco Central del Ecuador, Guayaquil. 
-* VV. AA. (2004): Memoría artística de Paúl Palacio en “Boletín Museo Municipal de Guayaquil” N°10. M. I. Municipio de Guayaquil. 
-* Nicola Garcés, G. (2020): “Ambato eterno. Una visión de su arquitectura patrimonial”. Editorial Don Bosco, Ambato.
-* Diario “El heraldo”. Jueves 26 de enero de 1967, pág. 11. Ambato.
+<u>Fuentes<u>:
+* Pérez Pimentel, R. (2004): *“Diccionario Biográfico del Ecuador”*. Universidad de Guayaquil, Guayaquil.
+* Rodríguez Castelo, H. (2006): *“Nuevo diccionario crítico de artistas plásticos del Ecuador del siglo XX”*. Centro Cultural Benjamín Carrión - Municipio metropolitano de Quito, Quito.
+* Rodríguez Castelo, H. (1988): *“El siglo XX de las artes visuales  en Ecuador”*. Banco Central del Ecuador, Guayaquil. 
+* VV. AA. (2004): Memoría artística de Paúl Palacio en *“Boletín Museo Municipal de Guayaquil”* N°10. M. I. Municipio de Guayaquil. 
+* Nicola Garcés, G. (2020): *“Ambato eterno. Una visión de su arquitectura patrimonial”*. Editorial Don Bosco, Ambato.
+* Diario *“El Heraldo”*. Jueves 26 de enero de 1967, pág. 11. Ambato.
 
 **Fernando Mayorga.**
 
