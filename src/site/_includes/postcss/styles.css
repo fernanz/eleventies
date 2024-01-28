@@ -96,6 +96,12 @@ img {
   margin-bottom: .3em;
 }
 
+.fit {
+ objet-fit: cover;
+ aspect-ratio: 1;
+ max-block-size:750px;
+} 
+
 h1, h2, h3 {
   color: $text-color;
   font-weight: 700;
