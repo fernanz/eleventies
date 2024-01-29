@@ -165,8 +165,9 @@ El ídolo de su pueblo
 Poseyó todos los talentos 
 
 Practicó todas las virtudes.”  
+<br/>
 
 
-Fernando Mayorga.
+**Fernando Mayorga.**
 
 
