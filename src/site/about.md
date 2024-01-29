@@ -9,7 +9,7 @@ Este es mi pasatiempo; así es, diseño y escribo blogs. Escribo para aprender s
 
 Por si a alguien le llegase a interesar, he seleccionado los que artículos que considero relevantes de cada blog…
 
-### scriptorum-guayaquilensis.blogspot.com
+### [Scriptorum Guayaquilensis](https://scriptorum-guayaquilensis.blogspot.com)
 
 <div class="nakedLink">
 
@@ -22,7 +22,7 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 - [La expedición de Alejandro Malaspina]()
 - [Crónica de la muerte del poeta Medardo Ángel Silva]()
 
-### fernanz.github.io 
+### [Fernando mayorga]https://fernanz.github.io 
 
 <div class="nakedLink">
 
