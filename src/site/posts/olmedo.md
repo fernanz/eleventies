@@ -144,6 +144,8 @@ Y muere siendo el honor
 
 De su patria y su familia.
 <br/>
+<br/>. 
+
 
 
 Me permito concluir esta brevísima exposición de tan amplio tema citando a Víctor Manuel Rendón con unas líneas de su biografía de Olmedo:
