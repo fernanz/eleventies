@@ -22,7 +22,7 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 - [La expedición de Alejandro Malaspina]()
 - [Crónica de la muerte del poeta Medardo Ángel Silva]()
 
-### [Fernando mayorga]https://fernanz.github.io 
+### [Fernando Mayorga](https://fernanz.github.io) 
 
 <div class="nakedLink">
 
