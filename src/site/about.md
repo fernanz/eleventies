@@ -13,14 +13,14 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 
 <div class="nakedLink">
 
-[![Mi primer blog](/images/IMG_0912.jpeg)](https://scriptorum-guyaquilensis.blogspot.com)
+[![Mi primer blog](/images/IMG_0912.jpeg)](https://scriptorum-guayaquilensis.blogspot.com)
 
 </div>
 
-- Atahualpa Huañui.
-- Guayaquil, el puente de las 800 varas, ciudad vieja y ciudad nueva.
-- La expedición de Alejandro Malaspina.
-- Crónica de la muerte del poeta Medardo Ángel Silva.  
+- [Atahualpa Huañui]()
+- [Guayaquil, el puente de las 800 varas, ciudad vieja y ciudad nueva]()
+- [La expedición de Alejandro Malaspina]()
+- [Crónica de la muerte del poeta Medardo Ángel Silva]()
 
 ### fernanz.github.io 
 
@@ -30,10 +30,10 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 
 </div>
 
-- Manteña-Guancavilca.
-- La descripción de Guayaquil por el capitán Woodes Rogers.
-- El Fauno y la Bacante, pasión por el clasicismo.
-- Iconografía del frontispicio de la Catedral de Guayaquil: Los Evangelistas y el Tetramorfos.
-- Iconografía del frontispicio de la Catedral de Guayaquil: Los Doctores latinos de la Iglesia.
-- Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy.
+- [Manteña-Guancavilca]()
+- [La descripción de Guayaquil por el capitán Woodes Rogers]()
+- [El Fauno y la Bacante, pasión por el clasicismo]()
+- [Iconografía del frontispicio de la Catedral de Guayaquil: Los Evangelistas y el Tetramorfos]()
+- [Iconografía del frontispicio de la Catedral de Guayaquil: Los Doctores latinos de la Iglesia]()
+- [Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy]()
 
