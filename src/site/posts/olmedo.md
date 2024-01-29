@@ -104,8 +104,8 @@ El alma del ciudadano;
 Sin honor es miembro vano,  
 
 O pernicioso al Estado.  
-
 <br/>
+
 Moral; la sana moral  
 
 Consiste en amarse bien,  
@@ -142,7 +142,8 @@ Con bondad, no con rigor,
 
 Y muere siendo el honor 
 
-De su patria y su familia.  
+De su patria y su familia.
+<br/>
 
 
 Me permito concluir esta brevísima exposición de tan amplio tema citando a Víctor Manuel Rendón con unas líneas de su biografía de Olmedo:
