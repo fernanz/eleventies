@@ -54,6 +54,7 @@ En 1969, por invitación del Departamento Cultural del Gobierno de Estados Unido
 <img src="https://res.cloudinary.com/magnvs/image/upload/v1706545639/IMG_20240128_152802_hryydt.jpg"/>
 <figcaption>Busto de Neptalí Sancho (1969). Parque de La Merced, Ambato.</figcaption>
 </figure>
+  
 
 Entre las obras que se propusieron para celebrar el sesquicentenario de la Independencia de Guayaquil estuvo un monumento alegórico a la Revolución del 9 de Octubre, el alcalde Asaad Bucaram llamó a Concurso Nacional para el boceto de dicho monumento, Paúl Palacio obtuvo el Primer Premio por su conjunto escultórico de tres figuras que simbolizan la Patria Nueva antepuestas a un bloque de granito. Desafortunadamente el monumento no se realizó ya que el Presidente Velasco Ibarra se declaró dictador (1970) y defenestró a Asaad Bucaram.
 
