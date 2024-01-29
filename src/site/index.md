@@ -1,5 +1,5 @@
 ---
-title: SinNombre
+title: Arcanum
 subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y literatura del mundo antiguo y no tan antiguo.
 layout: layouts/base.njk
 ---
