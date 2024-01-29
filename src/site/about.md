@@ -9,11 +9,15 @@ Este es mi pasatiempo; así es, diseño y escribo blogs. Escribo para aprender s
 
 Por si a alguien le llegase a interesar, he seleccionado los que artículos que considero relevantes de cada blog…
 
-scriptorum-guayaquilensis.blogspot.com (2010)
+<div class="nakedLink">
+
+<h3>scriptorum-guayaquilensis.blogspot.com (2010):</h3> [![Mi primer blog](/.)](https://scriptorum-guayaquilensis.blogspot.com)
+
+</div>
 
 - Atahualpa Huañui.
 - Guayaquil, el puente de las 800 varas, ciudad vieja y ciudad nueva.
-- La expedición{no de Alejandro Malaspina.
+- La expedición de Alejandro Malaspina.
 - Crónica de la muerte del poeta Medardo Ángel Silva.  
 
 
@@ -27,11 +31,7 @@ fernanz.github.io (2014)
 - Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy.
 
 
-<div class="nakedLink">
 
-scriptorum-guayaquilensis.blogspot.com: [![Netlify Status](https://scriptorum-guayaquilensis.)](https://scriptorum-guayaquilensis)
-
-</div>
 
 ## One-click deploy
 
