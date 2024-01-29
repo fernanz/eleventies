@@ -19,6 +19,8 @@ date: 2024-01-27
       </a>
 
 </section>
+<br/>
+<br/>
 
 **Paúl Amadeus Palacio Collman (Loja, 1941).**
 
