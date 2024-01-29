@@ -11,7 +11,7 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 
 <div class="nakedLink">
 
-[![Mi primer blog](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
+[![Mi primer blog](/images/IMG_0912.jpeg)](https://fernanz.github.io)
 
 </div>
 
