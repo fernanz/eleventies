@@ -82,6 +82,12 @@ Es importante recoger el criterio del intelectual Hernán Rodríguez Castelo (19
 Como se podrá apreciar líneas más adelante, la abundante producción del escultor gira en torno al retrato, tanto bustos como estatuas, ya sean como monumentos públicos o de carácter privado. 
 
 
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1706549746/IMG_20240128_151851_ytisbq.jpg"/>
+<figcaption>Detalle frontal del conjunto escultórico central del monumento a la Segunda Constituyente (1987), Ambato.</figcaption>
+</figure>
+
+
 Destacan, entre las esculturas que se alejan del ejercicio del retrato, dos obras de temática histórica con potente carga narrativa y riqueza simbólica: el Monumento Nacional a la Segunda Constituyente en la ciudad de Ambato; los murales del Guayaquil Aborigen, Guayaquil Colonial e Independiente para el Palacio Municipal de Guayaquil.
 
 
