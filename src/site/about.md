@@ -11,8 +11,7 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 
 <div class="nakedLink">
 
-<h3>scriptorum-guayaquilensis.blogspot.com (2010):</h3>
-[![Mi primer blog](https://sparkling-youtiao-be0428.netlify.app/images/IMG_0912.jpeg)](https://scriptorum-guayaquilensis.blogspot.com)
+[![Mi primer blog](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
 
 </div>
 
@@ -22,7 +21,11 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 - Crónica de la muerte del poeta Medardo Ángel Silva.  
 
 
-fernanz.github.io (2014)
+<div class="nakedLink">
+
+[![En github](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
+
+</div>
 
 - Manteña-Guancavilca.
 - La descripción de Guayaquil por el capitán Woodes Rogers.
@@ -31,12 +34,6 @@ fernanz.github.io (2014)
 - Iconografía del frontispicio de la Catedral de Guayaquil: Los Doctores latinos de la Iglesia.
 - Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy.
 
-
-
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
 
 <div class="nakedLink">
 
