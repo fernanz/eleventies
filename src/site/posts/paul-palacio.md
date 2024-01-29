@@ -34,6 +34,11 @@ Habiéndose graduado en 1960 de bachiller en el Colegio Benigno Malo de la ciuda
 En 1966  ingresó como profesor de Dibujo, Pintura y Escultura al Colegio Experimental Americano de Cuenca, es mismo año, escribe, el cronista Pérez Pimentel, por encargo del Club Rotario de Cuenca realizó el monumento a la Madre Cuencana. 
 
 
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1706545639/IMG_20240128_150458_z0jaqt.jpg"/>
+<figcaption>Alegoría de Cumandá (1967). Ingahurco, Ambato.</figcaption>
+</figure>
+
 En el año siguiente, 1967, junto a su padre Daniel trabajó en la materialización del monumento a Juan León Mera y la alegoría de Cumandá para la ciudad de Ambato: *“Esta primera obra en esa ciudad le abrió la posibilidad de otras muchas, se hizo de un nombre y la crítica aplaudió sin restricciones lo suyo”* (Pérez, 2004).  Al respecto, es importante notar lo que señala el historiador Gerardo Nicola G. (2020) en una breve reseña biográfica del padre del escultor, Daniel Palacio​: *“En 1966, fue contratado por el estado ecuatoriano, a instancias de Gerardo Nicola López, promotor de la estatua de don Juan León Mera​, para la realización del monumento al cantor de la patria”*.
 
 <figure>
@@ -44,6 +49,11 @@ En el año siguiente, 1967, junto a su padre Daniel trabajó en la materializaci
 
 En 1969, por invitación del Departamento Cultural del Gobierno de Estados Unidos de América realizó una visita cultural de tres meses a las ciudades de Washington, New York, Pennsylvania, Chicago, San Francisco, Los Ángeles y Miami.
 
+
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1706545639/IMG_20240128_152802_hryydt.jpg"/>
+<figcaption>Busto de Neptalí Sancho (1969). Parque de La Merced, Ambato.</figcaption>
+</figure>
 
 Entre las obras que se propusieron para celebrar el sesquicentenario de la Independencia de Guayaquil estuvo un monumento alegórico a la Revolución del 9 de Octubre, el alcalde Asaad Bucaram llamó a Concurso Nacional para el boceto de dicho monumento, Paúl Palacio obtuvo el Primer Premio por su conjunto escultórico de tres figuras que simbolizan la Patria Nueva antepuestas a un bloque de granito. Desafortunadamente el monumento no se realizó ya que el Presidente Velasco Ibarra se declaró dictador (1970) y defenestró a Asaad Bucaram.
 
@@ -56,6 +66,11 @@ En 1973 fija su residencia en la ciudad de Guayaquil y, desde 1986 vive en la pr
 
 Entre su obra de escultura monumental pública destacada, además de la ya mencionada, se incluyen las estatuas de Luis A. Martínez, Juan Benigno Vela, la del Libertador Simón Bolívar y el Monumento Nacional a la Segunda Constituyente todas en la ciudad de Ambato; los murales del Guayaquil Aborigen, Guayaquil Colonial e Independiente para el Palacio Municipal de Guayaquil y la estatua del ex presidente Emilio Estrada Carmona también en Guayaquil.
 
+
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1706545638/IMG_0910_mevxff.jpg"/>
+<figcaption>Retrato de Luis A. Martínez (1973); Conjunto escultórico central del monumento a la Segunda Constituyente (1987), ambos en la ciudad de Ambato.</figcaption>
+</figure>
 
 Es importante recoger el criterio del intelectual Hernán Rodríguez Castelo (1988) quien señala:
 
@@ -74,6 +89,11 @@ La primera, contratada por la Municipalidad de Ambato en 1987, es un conjunto qu
 
 La segunda obra, aunque realizada en 1986, la encontramos en las escalinatas principales de acceso al Salón de la Ciudad del Palacio Municipal de Guayaquil, un conjunto de dos murales acordes con el garbo de la primera institución de la ciudad. Con 22 capítulos, ​sus relieves riquísimos en simbolismo y alusiones a la historia de la ciudad se organizan, en el primer mural con la temática del Guayaquil Aborígen y en el otro con la temática de Guayaquil Colonial y Guayaquil Independiente hasta los hechos de la Revolución del 6 de Marzo de 1845. El mural del Guayaquil Aborigen, recoge en una sola escena de tintes épicos, toda la riqueza y el simbolismo cultural de los primeros pueblos que se asentaron en este territorio, desde las culturas Valdivia hasta la Manteño Huancavilca y su encuentro con los navíos españoles. En primer plano, dominando esta “visión cosmogónica indoamericana” se encuentra una figura estilizada de la Pacha-Mama *“En su actitud,posición y cabeza y miembros es la de estrella de cinco puntas (un pentagrama), expresa el dominio del espíritu sobre los elementos [...] su diestra sujeta una serpiente que simboliza sabiduría y el brazo opuesto empuña la punta de obsidiana el poder del conocimiento”* (Paúl Palacio, 2004). El mural de Guayaquil Colonial y Guayaquil Independiente, a diferencia del primero, está segmentado en varias escenas que desde su parte inferior, de manera ascendente, narran los principales hechos históricos de Guayaquil como su Fundación, la Cultura bajo el dominio de la Corona, los ataques piráticos, los hechos alrededor de la Revolución del 9 de Octubre de 1820 y culmina recordando la Revolución Marcista de 1845. 
 
+
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1706545639/IMG_20240128_184441_tsmoq9.jpg"/>
+<figcaption>Detalle de la estatua de Juan Benigno Vela (1980), Parque Juan Benigno Vela, Ambato.</figcaption>
+</figure>
 
 Trabajos realizados con su padre Daniel Palacio:
 * Rafael María Arizaga, José Peralta, Luis Cordero, Emiliano Crespo (Cuenca).
