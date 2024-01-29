@@ -9,9 +9,11 @@ Este es mi pasatiempo; así es, diseño y escribo blogs. Escribo para aprender s
 
 Por si a alguien le llegase a interesar, he seleccionado los que artículos que considero relevantes de cada blog…
 
+### scriptorum-guayaquilensis.blogspot.com
+
 <div class="nakedLink">
 
-[![Mi primer blog](/images/IMG_0912.jpeg)](https://fernanz.github.io)
+[![Mi primer blog](/images/IMG_0912.jpeg)](https://scriptorum-guyaquilensis.blogspot.com)
 
 </div>
 
@@ -20,10 +22,11 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 - La expedición de Alejandro Malaspina.
 - Crónica de la muerte del poeta Medardo Ángel Silva.  
 
+### fernanz.github.io 
 
 <div class="nakedLink">
 
-[![En github](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
+[![En github](/images/IMG_0913.jpeg)](https://fernanz.github.io)
 
 </div>
 
@@ -34,9 +37,3 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 - Iconografía del frontispicio de la Catedral de Guayaquil: Los Doctores latinos de la Iglesia.
 - Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy.
 
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
-
-</div>
