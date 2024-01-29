@@ -6,21 +6,19 @@ date: 2024-01-27
   
 <section class="full-width">
 
-<a href="/">
-        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702942753/2024-assets/IMG_0858.jpg"/>
+<a href="/posts/paul-palacio">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1706491581/Const-mural_gm3c2y.jpg"/>
       </a>
 
-<a href="/" class="vertıcal">
-        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0862.jpg"/>
+<a href="/posts/paul-palacio" class="vertıcal">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1706491580/Mera_pvqsa4.jpg"/>
       </a>
   
-<a href="/" class="horizontal">
-        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg"/>
+<a href="/posts/paul-palacio" class="horizontal">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1706491581/IMG_0897_gzl9mh.jpg"/>
       </a>
 
 </section>
-
-![Imagen de ejemplo](https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg)
 
 **Paúl Amadeus Palacio Collman (Loja, 1941).**
 
@@ -35,6 +33,9 @@ En 1966  ingresó como profesor de Dibujo, Pintura y Escultura al Colegio Experi
 
 
 En el año siguiente, 1967, junto a su padre Daniel trabajó en la materialización del monumento a Juan León Mera y la alegoría de Cumandá para la ciudad de Ambato: *“Esta primera obra en esa ciudad le abrió la posibilidad de otras muchas, se hizo de un nombre y la crítica aplaudió sin restricciones lo suyo”* (Pérez, 2004).  Al respecto, es importante notar lo que señala el historiador Gerardo Nicola G. (2020) en una breve reseña biográfica del padre del escultor, Daniel Palacio​: *“En 1966, fue contratado por el estado ecuatoriano, a instancias de Gerardo Nicola López, promotor de la estatua de don Juan León Mera​, para la realización del monumento al cantor de la patria”*.
+
+
+![Imagen de ejemplo](https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg)
 
 
 En 1969, por invitación del Departamento Cultural del Gobierno de Estados Unidos de América realizó una visita cultural de tres meses a las ciudades de Washington, New York, Pennsylvania, Chicago, San Francisco, Los Ángeles y Miami.
