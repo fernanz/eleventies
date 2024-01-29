@@ -66,7 +66,7 @@ Otra vez en línea, escribiendo para aprender.
 Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no necesitas descargar nada, son aplicaciones en línea fáciles de acceder con un navegador web y su URL:  
 
 1. [TELEGRAPH](https://telegra.ph) Minimalista y muy práctica, te permite incluir imágenes junto a tu texto. Escribe directamente en la pantalla del navegador, presiona el botón "publish" y luego, si deseas compartir tu nota, copia el URL que se haya generado.  
-2. [DILLINGER](https://dillinger.io) Genera y edita archivos .md (Markdown), lenguaje de edición de textos muy sencillo y fácil de aprender. La p{agina por defecto te presenta un modelo editable con una vista previa a la derecha. Tiene buenas funciones para exportar en formato .html .pdf .md y de igual manera para importarlos.
+2. [DILLINGER](https://dillinger.io) Genera y edita archivos .md (Markdown), lenguaje de edición de textos muy sencillo y fácil de aprender. La página por defecto te presenta un modelo editable con una vista previa a la derecha. Tiene buenas funciones para exportar en formato .html .pdf .md y de igual manera para importarlos.
 
 </div>  
 
