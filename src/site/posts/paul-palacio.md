@@ -149,6 +149,8 @@ Primeras obras 1965 - 1969:
 * Mural Cámara de Industrias Guayaquil, piedra 7 x 2.50 m (Guayaquil).
 * Bajo relieve alegórico para el Colegio Santo Domingo de Guzmán, 2.50 x 3 m bronce (Guayaquil).
 * Grupo alegórico con esculturas de tres metros, arcilla de color aglutinadad con resina y reforzada con fibra de vidrio, Iglesia de la Anunciación (Guayaquil).
+* Mural “El Guayaquil Aborigen” - vestíbulo del Palacio Municipal de Guayaquil entregado en el 2000, 5.40 x 2.50 m (Guayaquil). 
+* Mural “El Guayaquil Colonial e Independiente” - vestíbulo del Palacio Municipal de Guayaquil entregado en el 2000, 5.40 x 5.40 m (Guayaquil). 
 
 
 1986 -1994:
@@ -168,8 +170,6 @@ Primeras obras 1965 - 1969:
 * Relieves serie limitada “Visión Indoamericana”: 100 modelos diferentes de 0.40 x 0.40 m realizados en cerámica.
 * Exposición “América”: 20 esculturas, 0.60 m alto promedio, bronce.
 * 380 estudios / proyectos: Esculturas, relieves y retratos para colecciones privadas, exposiciones colectivas.
-* Mural “El Guayaquil Aborigen” - vestíbulo del Palacio Municipal de Guayaquil entregado en el 2000, 5.40 x 2.50 m (Guayaquil). 
-* Mural “El Guayaquil Colonial e Independiente” - vestíbulo del Palacio Municipal de Guayaquil entregado en el 2000, 5.40 x 5.40 m (Guayaquil). 
 * Monumento al Libertador Simón Bolívar - inaugurado en el 2004, 4 m bronce (Ambato). 
 * Monumento a Emilio Estrada Carmona - inaugurado en el 2005, 2.80 m bronce (Guayaquil). 
 
