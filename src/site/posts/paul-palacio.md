@@ -4,6 +4,21 @@ description: Ambato le debe al escultor Palacio Collman sus más bellos monument
 date: 2024-01-27
 ---
   
+<section class="full-width">
+
+<a href="/">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702942753/2024-assets/IMG_0858.jpg"/>
+      </a>
+
+<a href="/" class="vertıcal">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0862.jpg"/>
+      </a>
+  
+<a href="/" class="horizontal">
+        <img src="https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg"/>
+      </a>
+
+</section>
 
 ![Imagen de ejemplo](https://res.cloudinary.com/magnvs/image/upload/v1702957059/2024-assets/IMG_0861.jpg)
 
