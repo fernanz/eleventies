@@ -15,7 +15,7 @@ Permítanme empezar con un extracto del discurso que diera nuestro prócer Olmed
 
 > *“El poder público no es una propiedad que se adquiere, no es un fuero, no es un premio que la Nación concede; es una carga honrosa y grave, es una confianza grande y terrible, que lleva consigo grandes y terribles obligaciones. El ciudadano investido del Poder no tiene más derechos, ni más prerrogativas que la de tener mayores facultades para hacer el bien, y la de ser el primero en marchar por la estrecha senda de las leyes; ni debe proponerse otra recompensa que la esperanza de merecer un día, por su moderación, por su constancia, por su cordial sumisión a las leyes, el amor de sus conciudadanos y la gratitud de la patria”.*
 
-Han pasado casi dos siglos (187 años para ser precisos) desde que el Dr. Olmedo pronunciara estas palabras, sabio y apropiado consejo que aún se mantiene vigente y, creo firmemente no debemos ignorarlo todos los ciudadanos de bien, en especial aquellos que administramos la cosa pública.
+Han pasado casi dos siglos (189 años para ser precisos) desde que el Dr. Olmedo pronunciara estas palabras, sabio y apropiado consejo que aún se mantiene vigente y, creo firmemente no debemos ignorarlo todos los ciudadanos de bien, en especial aquellos que administramos la cosa pública.
 
 Hablar de don José Joaquín de Olmedo es recordar al estadista, literato, poeta, pensador y prócer, es reconocer al hombre admirable por sus facultades intelectuales, y mejor aún aprender de su ejemplo de vida como ciudadano, tal como escribiera de este gran guayaquileño el ilustre jesuita Aurelio Espinoza Pólit:
 
@@ -144,7 +144,7 @@ Y muere siendo el honor
 
 De su patria y su familia.
 <br/>
-<br/>. 
+<br/> 
 
 
 
