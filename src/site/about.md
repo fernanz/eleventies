@@ -11,7 +11,8 @@ Por si a alguien le llegase a interesar, he seleccionado los que artículos que 
 
 <div class="nakedLink">
 
-<h3>scriptorum-guayaquilensis.blogspot.com (2010):</h3> [![Mi primer blog](/images/bg-grid.png)](https://scriptorum-guayaquilensis.blogspot.com)
+<h3>scriptorum-guayaquilensis.blogspot.com (2010):</h3>
+[![Mi primer blog](//sparkling-youtiao-be0428.netlify.app/images/IMG_0912.jpeg)](https://scriptorum-guayaquilensis.blogspot.com)
 
 </div>
 
