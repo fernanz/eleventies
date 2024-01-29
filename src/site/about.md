@@ -1,16 +1,35 @@
 ---
-title: Get Yours
+title: Más Info
 layout: layouts/about.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Sobre este sitio y mis blogs anteriores.
 ---
 
-## Hosting
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+Este es mi pasatiempo; así es, diseño y escribo blogs. Escribo para aprender sobre los temas que prefiero como nuestra historia, arte y literatura, entre otras cosas. Aunque hace más de diez años atrás hice mi primer blog, debo reconocer que no he sido muy persistente en esta tarea (la de publicar en línea), incluso recuerdo tenía uno con Wordpress que utilizaba con material respaldo para mis clases cuando fui maestro de la Espol; sin embargo allí siguen en línea mis blogs anteriores a este.   
+
+Por si a alguien le llegase a interesar, he seleccionado los que artículos que considero relevantes de cada blog…
+
+scriptorum-guayaquilensis.blogspot.com (2010)
+
+- Atahualpa Huañui.
+- Guayaquil, el puente de las 800 varas, ciudad vieja y ciudad nueva.
+- La expedición{no de Alejandro Malaspina.
+- Crónica de la muerte del poeta Medardo Ángel Silva.  
+
+
+fernanz.github.io (2014)
+
+- Manteña-Guancavilca.
+- La descripción de Guayaquil por el capitán Woodes Rogers.
+- El Fauno y la Bacante, pasión por el clasicismo.
+- Iconografía del frontispicio de la Catedral de Guayaquil: Los Evangelistas y el Tetramorfos.
+- Iconografía del frontispicio de la Catedral de Guayaquil: Los Doctores latinos de la Iglesia.
+- Iconografía del frontispicio de la Catedral de Guayaquil: Ayer y hoy.
+
 
 <div class="nakedLink">
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+scriptorum-guayaquilensis.blogspot.com: [![Netlify Status](https://scriptorum-guayaquilensis.)](https://scriptorum-guayaquilensis)
 
 </div>
 
@@ -20,14 +39,6 @@ To get your own instance of this [Eleventy](https://11ty.io) starter project clo
 
 <div class="nakedLink">
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://fernanz.github.io)
 
 </div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
