@@ -95,7 +95,7 @@ Cuanto el hombre debe amar:
 Su Dios, sus leyes, su hogar,  
 
 Y el honor que los defiende.  
-
+<br/>
 
 Honor es en sumo grado  
 
@@ -105,44 +105,67 @@ Sin honor es miembro vano,
 
 O pernicioso al Estado.  
 
+<br/>
+Moral; la sana moral  
 
-Moral; la sana moral
-Consiste en amarse bien,
-En hacer á todos bien,
-Y en no hacer a nadie mal.
+Consiste en amarse bien,  
 
-Tiranía y opresión
-Suenan y expresan lo mismo:
-Para salir de este abismo,
-Es honrosa toda acción.
+En hacer á todos bien,  
 
-Estas reglas, hijo amado,
-Te harán un niño gracioso,
-Un jóven pundonoroso,
-Un hombre bueno y honrado,
-Y un anciano respetado,
-Que á sus iguales auxilia,
-Sus diferencias concilia,
-Con bondad, no con rigor,
-Y muere siendo el honor
-De su patria y su familia.
+Y en no hacer a nadie mal.  
+<br/>
+
+Tiranía y opresión  
+
+Suenan y expresan lo mismo:  
+
+Para salir de este abismo,  
+
+Es honrosa toda acción.  
+<br/>
+
+Estas reglas, hijo amado,  
+
+Te harán un niño gracioso,  
+
+Un jóven pundonoroso,  
+
+Un hombre bueno y honrado,  
+
+Y un anciano respetado,  
+
+Que á sus iguales auxilia,  
+
+Sus diferencias concilia,  
+
+Con bondad, no con rigor,  
+
+Y muere siendo el honor 
+
+De su patria y su familia.  
+
 
 Me permito concluir esta brevísima exposición de tan amplio tema citando a Víctor Manuel Rendón con unas líneas de su biografía de Olmedo:
 
-“Olmedo, antes que nada, amaba ardientemente a su patria. Nada le era más querido. Por ella siempre estuvo listo a sacrificar su descanso, la alegría de su hogar, sus consonantes estudios y su existencia. Todos los actos de su larga carrera política son sus más brillantes testimonios.
-Olmedo murió el 19 de febrero de 1847 a la edad de 67 años.
-
-Todo el país se sintió de duelo. Las naciones americanas se unieron a su tristeza y sus más notables escritores prodigaron tanto en prosa como en verso, los testimonios de consternación por su muerte y de admiración por su genio”.
+> *“Olmedo, antes que nada, amaba ardientemente a su patria. Nada le era más querido. Por ella siempre estuvo listo a sacrificar su descanso, la alegría de su hogar, sus consonantes estudios y su existencia. Todos los actos de su larga carrera política son sus más brillantes testimonios.*.
+> *Olmedo murió el 19 de febrero de 1847 a la edad de 67 años.*
+> *Todo el país se sintió de duelo. Las naciones americanas se unieron a su tristeza y sus más notables escritores prodigaron tanto en prosa como en verso, los testimonios de consternación por su muerte y de admiración por su genio”.*
 
 Grabado en su epitafio, el pueblo guayaquileño, lo recuerda con justicia y cariño:
 
-“A Dios glorificador
-Aquí yace el Doctor D. José Joaquín Olmedo
-Fue el padre de la Patria
-El ídolo de su pueblo
-Poseyó todos los talentos
-Practicó todas las virtudes.”
+“A Dios glorificador  
 
-Muchas gracias.
+Aquí yace el Doctor D. José Joaquín Olmedo  
+
+Fue el padre de la Patria  
+
+El ídolo de su pueblo  
+
+Poseyó todos los talentos 
+
+Practicó todas las virtudes.”  
+
+
+Fernando Mayorga.
 
 
