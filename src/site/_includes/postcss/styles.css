@@ -227,6 +227,7 @@ a:focus {
   li {
     display: inline;
     padding-bottom: 1em;
+    margin-bottom: .7em;
   }
 
   a:link,
