@@ -33,7 +33,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 | Creciente    |  Viernes 16.02.2024   	| 10:00 |
 | Llena |  Sábado 24.02.2024   	| 07:30 |  
 
-
+<br/>
 - Concluyo febrero recordando tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana - **Día del Oriente ecuatoriano** -y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, - **Día del Archipiélago de Galápagos** - y, el 27 de febrero la **Batalla de Tarqui**.  
 
 
