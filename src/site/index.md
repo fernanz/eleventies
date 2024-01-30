@@ -7,6 +7,12 @@ layout: layouts/base.njk
 
 ## Febrero 2024 
 
+<div class="intro">
+Llegamos a febrero donde recordamos tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana -*Día del Oriente ecuatoriano*- y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, -*Día del Archipiélago de Galápagos*- y, el 27 de febrero la Batalla de Tarqui. En ocasiones este es el mes de los Carnavales como en este año, sin embargo como que no tenemos muy claro el asunto festivo debido al estado de conmoción en que se encuentra el país, mientras tanto los días libres del 12 y 13 se mantienen como tales.
+
+Febrero para los antiguos romanos era el último mes del año, el invierno estaba terminando y era el momento preciso para realizar una profunda limpieza en los hogares, también una limpieza de purificación espiritual y con ella dejar atrás todo lo negativo para recibir con buenos auspicios la primavera y el año nuevo que para ellos iniciaba en marzo. Este mes estaba consagrado a FEBRUO, antiguo dios de origen etrusco, dios de los muertos y de la purificación; en su honor, los romanos, celebraban las fiestas llamadas FEBRUALIA. Por esta razón se explica que la palabra febrero viene del latín “februare”, que significa purificar.
+</div>
+
 Data de almanaques y medios digitales:
 
 - En el **calendario celta**, el 1 - 2 de febrero, señalan uno de los cuatro principales festivales del año: **Imbolc** (*en el vientre*), también llamado festival del fuego (*fuego sagrado de la creatividad*), el cual es un festival asociado a la diosa de la fertilidad de la tierra "Brigid" y *-¿qué curioso?-* también a santa Brígida, segunda patrona de Irlanda. En tradición neopagana, el primero de febrero marca en la Rueda del Año el punto intermedio entre el solsticio de invierno y el equinoccio de primavera.
