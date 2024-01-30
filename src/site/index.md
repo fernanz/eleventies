@@ -15,7 +15,6 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 
 **Data de almanaques y medios digitales:**
 
-- Llegamos a febrero donde recordamos tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana - **Día del Oriente ecuatoriano** -y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, - **Día del Archipiélago de Galápagos** - y, el 27 de febrero la **Batalla de Tarqui**. En ocasiones este es el mes de los Carnavales como en este año, sin embargo como que no tenemos muy claro el asunto festivo debido al estado de conmoción en que se encuentra el país, mientras tanto los días libres del 12 y 13 se mantienen como tales.  
 - En el **calendario celta**, el 1 - 2 de febrero, señalan uno de los cuatro principales festivales del año: **Imbolc** (*en el vientre*), también llamado festival del fuego (*fuego sagrado de la creatividad*), el cual es un festival asociado a la diosa de la fertilidad de la tierra "Brigid" y *-¿qué curioso?-* también a santa Brígida, segunda patrona de Irlanda. En tradición neopagana, el primero de febrero marca en la Rueda del Año el punto intermedio entre el solsticio de invierno y el equinoccio de primavera.
 - Para los católicos, febrero se inicia con la fiesta religiosa del **Día de la Candelaria**, cada dos de este mes celebramos la purificación de la Virgen María después del nacimiento del niño Jesús. Etimológicamente, el nombre viene del latín “candela” (vela) de allí que en esta procesión los fieles llevan velas encendidas. En Ecuador, la Candelaria coincide con el segundo cuarto menguante lunar de este año.
 - En Norte América, la fiesta de la Candelaria *(Candlemas)* coincide con el **Día de la Marmota** (*Groundhog Day*). En su folklore, ese día se espera que la marmota salga de su madriguera después de haber hibernado, si la marmota ve su sombra esta regresará a hibernar ya que el frío continuará por unas cuantas semanas más, de lo contrario se espera un clima más abrigado.
@@ -35,7 +34,11 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 | Llena |  Sábado 24.02.2024   	| 07:30 |  
 
 
-<ul class="nav">
+- Concluyo febrero recordando tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana - **Día del Oriente ecuatoriano** -y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, - **Día del Archipiélago de Galápagos** - y, el 27 de febrero la *Batalla de Tarqui*.  
+
+
+<ul class="nav">. 
+  <p>Revisa los meses anteriores en:<p>
     <li>
       <a href="/2024">Archivo<small>Almanaque Xpress</small></a>
     </li>
