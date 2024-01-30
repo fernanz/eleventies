@@ -5,24 +5,27 @@ layout: layouts/base.njk
 ---
 
 
-## Enero 2024 
+## Febrero 2024 
 
 Data de almanaques y medios digitales:
 
-- Como ya es tradición, la Diablada Pillareña (Cantón Pillaro, Prov. Tungurahua) *-declarada patrimonio cultural inmaterial del Ecuador-* se celebra del 1 al 6 de enero. Más detalles en el portal digital del [Diario la Hora](https://www.lahora.com.ec/tungurahua/conoce-partidas-seran-parte-diablada-pillarena-2024/).
-- Tres fechas a destacar en el calendario eclesiástico para enero: 06, Fiesta de la Epifanía o Día de Reyes; 25, Conversión de san Pablo Apostol y; 28, día de santo Tomás de Aquino.
-- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de enero se la denomina LUNA DE LOBO / LUNA DE NIEVE; algunas culturas nativas de Norte América cuentan que en esta temporada era más probable escuchar a los lobos aullando. 
-- Este mes tendremos una **luna llena en Leo**. Recuerda: las lunas llenas, a nivel astrológico, son tiempos de cosecha. ¿Qué es lo que vamos a cosechar; será acaso aquello que sembramos en la luna nueva en Leo, hace seis meses? -16.08.2023-.  
+- En el **calendario celta**, el 1 - 2 de febrero, señalan uno de los cuatro principales festivales del año: **Imbolc** (*en el vientre*), también llamado festival del fuego (*fuego sagrado de la creatividad*), el cual es un festival asociado a la diosa de la fertilidad de la tierra "Brigid" y *-¿qué curioso?-* también a santa Brígida, segunda patrona de Irlanda. En tradición neopagana, el primero de febrero marca en la Rueda del Año el punto intermedio entre el solsticio de invierno y el equinoccio de primavera.
+- Para los católicos, febrero se inicia con la fiesta religiosa del **Día de la Candelaria**, cada dos de este mes celebramos la purificación de la Virgen María después del nacimiento del niño Jesús. Etimológicamente, el nombre viene del latín “candela” (vela) de allí que en esta procesión los fieles llevan velas encendidas. En Ecuador, la Candelaria coincide con el segundo cuarto menguante lunar de este año.
+- En Norte América, la fiesta de la Candelaria *(Candlemas)* coincide con el **Día de la Marmota** (*Groundhog Day*). En su folklore, ese día se espera que la marmota salga de su madriguera después de haber hibernado, si la marmota ve su sombra esta regresará a hibernar ya que el frío continuará por unas cuantas semanas más, de lo contrario se espera un clima más abrigado.
+- El 10 de febrero se celebra el **Año Nuevo Chino**, según su horóscopo este es el Año del Dragón de Madera (hasta el 28.01.2025). El dragón de madera significa evolución, mejora y abundancia. Un año muy propicio para la creatividad y la expresión artística. En Oriente el dragón es considerado un animal sagrado que trae buen augurío, además representa nobleza y poder.
+- Este año celebramos Carnaval los días lunes 12 y martes 13; coinciden de manera especial este 14 de febrero el **Miércoles de Ceniza** y el **Día de San Valentín** o de Los Enamorados.
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de febrero se la denomina LUNA SALVAJE / LUNA DE HIELO; algunas culturas nativas de Norte América también la cocnocen como LUNA DEL HAMBRE, debido a que el frío invierno y la intensa nieve dificultan la cacería.
+- Este mes tendremos una **luna llena en Virgo**. 
 - Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
   
 | Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
-| Menguante        |   Miércoles 03.01.2024   	| 22:30 |
-| Nueva           |   Jueves 11.01.2024   	| 06:57 |
-| Creciente    |  Miércoles 17.01.2024   	| 22:52 |
-| Llena |  Jueves 25.01.2024   	| 12:53 |  
+| Menguante        |   Viernes 02.02.2024   	| 18:17 |
+| Nueva           |   Viernes 09.02.2024   	| 17:58 |
+| Creciente    |  Viernes 16.02.2024   	| 10:00 |
+| Llena |  Sábado 24.02.2024   	| 07:30 |  
 
 
 <ul class="nav">
