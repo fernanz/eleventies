@@ -15,7 +15,7 @@ Data de almanaques y medios digitales:
 - El 10 de febrero (Luna nueva en la China continental) se celebra el **Año Nuevo Chino**, según su horóscopo este es el Año del Dragón de Madera (hasta el 28.01.2025). El dragón de madera significa evolución, mejora y abundancia. Un año muy propicio para la creatividad y la expresión artística. En Oriente el dragón es considerado un animal sagrado que trae buen augurío, además representa nobleza y poder.
 - Este año celebramos **Carnaval** los días lunes 12 y martes 13; coinciden de manera especial este 14 de febrero el **Miércoles de Ceniza** y el **Día de San Valentín** o de Los Enamorados.
 - En las tradiciones del hemisferio norte (América y Europa), a la luna llena de febrero se la denomina LUNA SALVAJE / LUNA DE HIELO; algunas culturas nativas de Norte América también la conocen como LUNA DEL HAMBRE, debido a que el frío invierno y la intensa nieve dificultan la cacería.
-- Este mes tendremos una **luna llena en Virgo**. 
+- Este mes tendremos una **luna llena en Virgo**. Por ahí dicen que a partir de esta luna llena empezaremos a ver la cruda realidad de ciertas cosas...
 - Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
