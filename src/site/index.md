@@ -70,7 +70,7 @@ Otra vez en línea, escribiendo para aprender.
 </div>
 
 <div class="nakedLink">
-<div style="width:10%;display:inline;">. 
+<div style="width:30px;display:block;float:left;margin:0;">. 
   
   [![Youtube icon](/images/youtube.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_). 
   
