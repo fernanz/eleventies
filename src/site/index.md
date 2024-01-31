@@ -68,6 +68,12 @@ Otra vez en línea, escribiendo para aprender.
 <div class="full-width">
 <img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1569034596/wzsgteeuryfsesmxjcig.png"/>
 </div>
+
+<div class="nakedLink">
+
+[![Youtube icon](/images/youtube.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_)
+
+</div>
   
 - [YouTube](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_).  
 
