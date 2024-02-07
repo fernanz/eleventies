@@ -16,15 +16,15 @@ El grupo étnico de los punáes o puneños estaba entre las más grandes comunid
 
 De este monolito, que debido a su similitud a otros hallados en América y estudiados por antropólogos, podría decirse que fue utilizado como altar de sacrificios; hecho que de manera indirecta lo corroboran dos de los grandes cronistas de Indias, Cieza de León y Antonio de Herrera, a quienes citamos:  
 
-> “[...] Tuvieron sus templos en partes ocultas y oscuras, adonde con pinturas horribles tenían las paredes esculpidas. Y delante de sus altares donde se hacían los sacrificios, mataban muchos animales, y algunas aves, y aun también mataban a los que se dice, indios esclavos, o tomados en tiempo de guerra en otras tierras, y ofrecían la sangre de ellos a su maldito diablo.”  Crónica del Perú. Pedro Cieza de León (1553).
+> *“[...] Tuvieron sus templos en partes ocultas y oscuras, adonde con pinturas horribles tenían las paredes esculpidas. Y delante de sus altares donde se hacían los sacrificios, mataban muchos animales, y algunas aves, y aun también mataban a los que se dice, indios esclavos, o tomados en tiempo de guerra en otras tierras, y ofrecían la sangre de ellos a su maldito diablo.”*  Crónica del Perú. Pedro Cieza de León (1553).
 
 En su conocida obra Décadas de Indias, Antonio de Herrera y Tordecillas  (1739), coincide con Cieza de León al tratar de las costumbres religiosas de los punáes:  
 
-> “Eran dados a la Religión y vicios, y tenían oráculos del demonio, tenían los templos en partes ocultas, y en las paredes esculpidas cosas espantables, sacrificaban animales, y aves, y a veces hombres tomados en guerra."
+> *“Eran dados a la Religión y vicios, y tenían oráculos del demonio, tenían los templos en partes ocultas, y en las paredes esculpidas cosas espantables, sacrificaban animales, y aves, y a veces hombres tomados en guerra."*
 
 Aunque ninguno de ellos menciona la existencia de este monolito, sí mencionan la costumbre ritual de realizar sacrificios con esclavos o prisioneros de guerra de quienes ofrendaron su sangre. Al respecto Modesto Chávez Franco (1930), quien fue cronista vitalicio de la ciudad, cita al Dr. Francisco Campos de la siguiente manera:  
 
-> “El Dr. Francisco Campos, como mero narrador de los datos que él acopió de viejos cronistas, dice que esta piedra que hoy posee el Museo de Guayaquil era un altar de sacrificios humanos, situado en el centro del templo y da a entender que los arúspices consultaban en las entrañas de las víctimas los eventos felices o adversos de las guerras, como los antiguos pueblos del oriente europeo.” (Revista Municipal, Nov 1930. N° 51, Pág. 41).
+> *“El Dr. Francisco Campos, como mero narrador de los datos que él acopió de viejos cronistas, dice que esta piedra que hoy posee el Museo de Guayaquil era un altar de sacrificios humanos, situado en el centro del templo y da a entender que los arúspices consultaban en las entrañas de las víctimas los eventos felices o adversos de las guerras, como los antiguos pueblos del oriente europeo.”* (Revista Municipal, Nov 1930. N° 51, Pág. 41).
 
 Junto a otras extraordinarias muestras de la escultura monumental Manteño-Huancavilca como las sillas en forma de “U”, la Mujer de Colonche y el poste totémico Huancavilca, este monolito forma parte de la colección patrimonial del Museo Municipal de Guayaquil, colección única en su tipo.  
 
@@ -34,7 +34,7 @@ En el mencionado artículo de la Revista Patria, una de las notas de pie de la i
 
 De Modesto Chávez Franco (1930) tenemos un dato adicional sobre como este monolito pasó a formar parte del patrimonio museable de nuestra institución:  
 
-> “El descubridor la trajo a exhibirla en Guayaquil casi descalabrando una balandra en que vino la pesada mole. Se exhibió algún tiempo, y luego, de peripecia en peripecia, des de un solar en la esquina calles Luque y Pedro Carbo, a otros y otros, no sabemos cómo fue a parar en el solar y poder del honorable comerciante italiano don Bartolomé Vignolo, quien la obsequió a este Museo.” (Revista Municipal, Nov 1930. N° 51, Pág. 42).  
+> *“El descubridor la trajo a exhibirla en Guayaquil casi descalabrando una balandra en que vino la pesada mole. Se exhibió algún tiempo, y luego, de peripecia en peripecia, des de un solar en la esquina calles Luque y Pedro Carbo, a otros y otros, no sabemos cómo fue a parar en el solar y poder del honorable comerciante italiano don Bartolomé Vignolo, quien la obsequió a este Museo.”* (Revista Municipal, Nov 1930. N° 51, Pág. 42).  
 
 A mediados del siglo XX, encontramos ubicada la piedra en el parterre de la calle Diez de Agosto y Ave. Malecón Simón Bolívar, frente al Palacio Municipal, lugar desde el cual iniciaba un proyecto que se denominó la “Avenida de los dioses”, proyecto que fue propuesto por el arqueólogo Francisco Huerta Rendón durante la alcaldía de Carlos Guevara Moreno (1951 -1952).  
 
