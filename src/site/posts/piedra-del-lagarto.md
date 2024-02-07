@@ -1,4 +1,12 @@
-![monolito puná](src="https://res.cloudinary.com/magnvs/image/upload/v1577727255/ced7v8ya6pm0bfduxgmf.jpg")**Monolito zoomorfo de la isla Puná.** (Aprox. 1400 d.C.). 
+---
+title: Altar de los sacrificios
+description: Magnífico ejemplo de la escultura monumental Guancavilca, encontrado en la isla Puná, uno de los principales atractivos ancestrales que posee el Museo Municipal de Guayaquil. 
+date: 2024-02-06
+---  
+
+![monolito puná](https://res.cloudinary.com/magnvs/image/upload/v1577727255/ced7v8ya6pm0bfduxgmf.jpg) 
+
+**Monolito zoomorfo de la isla Puná.** (Aprox. 1400 d.C.). 
 
 La comúnmente denominada “piedra del lagarto” o “piedra de los sacrificios” es un monolito de aproximadamente tres toneladas de peso, compuesto por roca sedimentaria esculpida en alto relieve, presenta dos grandes figuras de reptiles, la una se asemeja a un lagarto y la otra parece ser un felino. El bloque mide 2.72 m de largo por 2.5 m y en su parte media tiene 0.75 m de altura.  
 
