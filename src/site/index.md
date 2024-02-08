@@ -53,7 +53,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 Otra vez en línea, escribiendo para aprender.
 
 <ul class="listing">
-{%- for page in collections.post | reverse -%}
+{%- for page in collections.post | first -%}
   <li>
     <a class="ptsans" href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
@@ -61,7 +61,11 @@ Otra vez en línea, escribiendo para aprender.
   <p class="descriptor">{{ page.data.description }}</p>
 {%- endfor -%}
 </ul>
-</div>
+</div>. 
+
+{% for link in linklists.main-menu.links %}
+  <a href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
 
 ## Guayaquil 1929 por Carlos Endara A.  
 
