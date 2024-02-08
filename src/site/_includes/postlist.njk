@@ -1,3 +1,9 @@
+{% set maxPosts = collections.posts.length | min(3) %}
+<h1>Los {% if maxPosts == 1 %}Posts {% else %}{{ maxPosts }} artículos más recientes:{% endif %}</h1>
+
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+
 <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
 {% for post in postslist | reverse %}
   <img class="img__post" src="{{ post.data.thumb_img }}" />
