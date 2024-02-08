@@ -69,6 +69,13 @@ Otra vez en línea, escribiendo para aprender.
   </li></ul>
 {% endfor %} -->
 
+<ul>
+  {% for post in site.posts offset:1 %}
+  <li><a href="{{post.url}}">{{ post.title }}</a></li>
+   {{ post.excerpt }}
+  {% endfor %}
+</ul>
+
 ## Guayaquil 1929 por Carlos Endara A.  
 
 <div class="full-width">
