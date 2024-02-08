@@ -38,13 +38,14 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 
 - Concluyo febrero recordando tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana - **Día del Oriente ecuatoriano** -y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, - **Día del Archipiélago de Galápagos** - y, el 27 de febrero la **Batalla de Tarqui**.  
 
+ <h3>Revisa los meses anteriores:<h3>
+	 
+{% for page in collections.note %}
+  <p><a href="{{ page.url }}"><em>{{ page.data.title }}</em></a><br/>
+	<small> {{ page.data.excerpt }}</small></p>
 
-<ul class="nav">
-  <p>Revisa los meses anteriores en:<p>
-    <li>
-      <a href="/2024">Archivo<small>Almanaque Xpress</small></a>
-    </li>
-</ul>
+{% endfor %}
+
   
 <br/>  
 <div class="meta-river">
@@ -62,12 +63,6 @@ Otra vez en línea, escribiendo para aprender.
 {%- endfor -%}
 </ul>
 </div> 
-
-{% for page in collections.note | reverse  %}
-  <p><a href="{{ page.url }}">{{ page.data.title }}</a><br/>
-	<small> {{ page.data.excerpt }}</small></p>
-  </li></ul>
-{% endfor %}
 
 
 ## Guayaquil 1929 por Carlos Endara A.  
