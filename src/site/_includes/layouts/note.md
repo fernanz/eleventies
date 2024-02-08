@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-pageClass: posts
+pageClass: notes
 templateEngineOverride: njk, md
 ---
 
