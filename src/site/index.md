@@ -64,9 +64,9 @@ Otra vez en línea, escribiendo para aprender.
 </div> 
 
 {% for page in collections.post %}
-  <ol><li><a href="{{ page.url }}">{{ page.data.title }}</a>
-	<small>{{ post.excerpt }}</small>
-  </li></ol>
+  <ul><li><a href="{{ page.url }}">{{ page.data.title }}</a>
+	<p> {{ page.excerpt }}</p>
+  </li></ul>
 {% endfor %}
 
 ## Guayaquil 1929 por Carlos Endara A.  
