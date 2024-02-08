@@ -64,8 +64,8 @@ Otra vez en línea, escribiendo para aprender.
 </div> 
 
 {% for page in collections.post %}
-  <ul><li><a href="{{ page.url }}">{{ page.data.title }}</a>
-	<p> {{ page.data.excerpt | upcase }}</p>
+  <p><a href="{{ page.url }}">{{ page.data.title }}</a>
+	<small> {{ page.data.excerpt | upcase }}</small></p>
   </li></ul>
 {% endfor %}
 
