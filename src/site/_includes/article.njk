@@ -1,0 +1,9 @@
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+
+<article >
+  <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+  <small>En {{ post.location }}</small>
+  {{ post.content }}
+  <small>Publicado por <a href="#footer">Fernando</a> el {{ post.date | date_to_string }}</small>
+</article>
