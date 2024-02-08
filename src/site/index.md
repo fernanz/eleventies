@@ -63,7 +63,7 @@ Otra vez en línea, escribiendo para aprender.
 </ul>
 </div> 
 
-{% for page in collections.post | last  %}
+{%- for page in collections.post | last -%}
   <a href="{{ page.url }}">{{ page.data.title }}</a>
 {% endfor %}
 
