@@ -63,7 +63,7 @@ Otra vez en línea, escribiendo para aprender.
 </ul>
 </div> 
 
-{% for page in collections.post  offset:1 %}
+{% for page in collections.notes | reverse  %}
   <p><a href="{{ page.url }}">{{ page.data.title }}</a><br/>
 	<small> {{ page.data.excerpt }}</small></p>
   </li></ul>
