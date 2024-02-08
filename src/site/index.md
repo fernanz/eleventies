@@ -103,6 +103,8 @@ Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no nece
 <figcaption> Perfil (2014). Madera petrificada. Manuel Velasteguí.</figcaption>
 </figure>
 
+<div class="fleuron">&#10086;</div>
+
 
 Finalmente, por cortesía de Netlify: [Un chiste en inglés](/.netlify/functions/fetch-joke). 
 
