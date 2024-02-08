@@ -5,5 +5,10 @@
   {{ content | safe }}
 </article>
 
+{% for page in collections.note %}
+
+  <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a>
+	<small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
+
