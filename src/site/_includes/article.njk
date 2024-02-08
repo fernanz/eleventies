@@ -1,14 +1,9 @@
-{% assign page = collections.note.first %}
-
-<article >
-  <h2><a href="{{page.url}}">{{ page.data.title }}</a></h2>
-  {{ content | safe }}
-</article>
-
 {% for page in collections.note %}
 
   <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a>
 	<small> {{ page.data.excerpt }}</small></p>
+
+{{ content }}
 
 {% endfor %}
 
