@@ -1,7 +1,7 @@
-{% assign note = collections.note.first %}
-{% assign content = note.content %}
+{% assign page = collections.note.first %}
+{% assign content = page.content %}
 
 <article >
-  <h2><a href="{{note.url}}">{{ note.title }}</a></h2>
-  {{ note.content }}
+  <h2><a href="{{page.url}}">{{ page.title }}</a></h2>
+  {{ page.content }}
   </article>
