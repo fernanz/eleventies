@@ -1,6 +1,7 @@
 ---
 title: Altar de los sacrificios
 description: Magnífico ejemplo de la escultura monumental Guancavilca, encontrado en la isla Puná, uno de los principales atractivos ancestrales que posee el Museo Municipal de Guayaquil. 
+excerpt: Originalmente elaborado como parte de un informe para D. C.
 date: 2024-02-06
 ---  
 
