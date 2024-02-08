@@ -1,6 +1,6 @@
 ---
 title: Enero 2024 
-excerpt: La primera publicacíón dedicada a un mes.
+excerpt: Aparentemente el mes más lento del año.
 date: 2024-01-01
 ---
 
