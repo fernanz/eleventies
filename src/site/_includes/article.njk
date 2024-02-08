@@ -1,9 +1,9 @@
 {% assign page = site.notes.first %}
-{% assign content = page.content %}
+{% assign content = content %}
 
 <article >
   <h2><a href="{{page.url}}">{{ page.data.title }}</a></h2>
-  {{ page.content | safe }}
+  {{ content | safe }}
 </article>
 
 
