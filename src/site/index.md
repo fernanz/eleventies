@@ -65,7 +65,7 @@ Otra vez en línea, escribiendo para aprender.
 
 {% for page in collections.post %}
   <ul><li><a href="{{ page.url }}">{{ page.data.title }}</a>
-	<p> {{ page.excerpt }}</p>
+	<p> {{ page.data.excerpt }}</p>
   </li></ul>
 {% endfor %}
 
