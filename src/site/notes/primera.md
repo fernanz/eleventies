@@ -1,5 +1,5 @@
 ---
-title: ENERO 2024 
+title: Enero 2024 
 excerpt: La primera publicacíón dedicada a un mes.
 date: 2024-01-01
 ---
