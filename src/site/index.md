@@ -48,7 +48,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 
   
 <br/>  
-<div class="meta-river">
+<div class="ocre-river">
 {% for page in collections.article %}
 
 <img src=" {{ page.data.image }}"/>
@@ -61,7 +61,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 </div>
 
 <div class="meta-river">
-<h2>Recientes artículos</h2><small>Otra vez en línea, escribiendo para aprender.</small>
+<h2>Recientes artículos</h2><p><small>Otra vez en línea, escribiendo para aprender.</small><p>
 
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
