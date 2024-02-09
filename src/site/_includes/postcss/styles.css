@@ -192,6 +192,10 @@ p {
   color: brown;
 }
 
+.ocre-river > a {
+  color: brown;
+}
+
 .fleuron {
   font-size: 30px;
   color: #bada55;
