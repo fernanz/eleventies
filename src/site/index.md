@@ -61,7 +61,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 </div>
 
 <div class="meta-river">
-<h2><a href"/2024">Artículos anteriores 2024</a></h2><p><small>Otra vez en línea, escribiendo para aprender.</small><p>
+<h2><a href="/2024">Artículos anteriores 2024</a></h2><p><small>Otra vez en línea, escribiendo para aprender.</small><p>
 
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
