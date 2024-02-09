@@ -179,17 +179,17 @@ p {
 
 .meta-river > h2 {
   margin-top:1em;
-  color: brown;
 }
 
 .ocre-river {
-  background-color: #F9EC9B;
+  background-color: rgba(160,217,229,.3);
   margin: auto -1.1em;
   padding: 1em 1.5em 1.6em 1.5em;
 }
 
 .ocre-river > h2 {
   margin-top: 1em;
+  color: brown;
 }
 
 .fleuron {
