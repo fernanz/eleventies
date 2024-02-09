@@ -1,14 +1,14 @@
 ---
 title: Altar de los sacrificios
-description: Magnífico ejemplo de la escultura monumental Guancavilca, encontrado en la isla Puná, uno de los principales atractivos ancestrales que posee el Museo Municipal de Guayaquil. 
+description: Magnífico ejemplo de la escultura monumental Guancavilca, encontrado en la isla Puná, uno de los principales atractivos ancestrales que posee el Museo Municipal de Guayaquil.
 excerpt: Originalmente elaborado como parte de un informe para D. C.
 image: 'https://res.cloudinary.com/magnvs/image/upload/v1520244024/lagarto_q4bxr5.png'
 date: 2024-02-06
 ---  
 
-![monolito puná](https://res.cloudinary.com/magnvs/image/upload/v1577727255/ced7v8ya6pm0bfduxgmf.jpg) 
+![monolito puná](https://res.cloudinary.com/magnvs/image/upload/v1577727255/ced7v8ya6pm0bfduxgmf.jpg)
 
-**Monolito zoomorfo de la isla Puná.** (Aprox. 1400 d.C.). 
+**Monolito zoomorfo de la isla Puná.** (Aprox. 1400 d.C.).
 
 La comúnmente denominada “piedra del lagarto” o “piedra de los sacrificios” es un monolito de aproximadamente tres toneladas de peso, compuesto por roca sedimentaria esculpida en alto relieve, presenta dos grandes figuras de reptiles, la una se asemeja a un lagarto y la otra parece ser un felino. El bloque mide 2.72 m de largo por 2.5 m y en su parte media tiene 0.75 m de altura.  
 
@@ -29,6 +29,11 @@ Aunque ninguno de ellos menciona la existencia de este monolito, sí mencionan l
 > *“El Dr. Francisco Campos, como mero narrador de los datos que él acopió de viejos cronistas, dice que esta piedra que hoy posee el Museo de Guayaquil era un altar de sacrificios humanos, situado en el centro del templo y da a entender que los arúspices consultaban en las entrañas de las víctimas los eventos felices o adversos de las guerras, como los antiguos pueblos del oriente europeo.”* (Revista Municipal, Nov 1930. N° 51, Pág. 41).
 
 Junto a otras extraordinarias muestras de la escultura monumental Manteño-Huancavilca como las sillas en forma de “U”, la Mujer de Colonche y el poste totémico Huancavilca, este monolito forma parte de la colección patrimonial del Museo Municipal de Guayaquil, colección única en su tipo.  
+
+<figure>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1707486685/IMG_20210831_101645-x_dnnezh.jpg"/>
+<figcaption>Imagen de la revista Patria (1908) en cuyo pie de imagen se lee "Cinco minutos antes de que se partiera en dos, la curiosa "piedra del lagarto" que hoy figura en el Museo Municipal, nuestro fotógrafo Rodríguez González, tuvo la suerte de obtener este cliché, en momentos que la piedra era penosamente conducida hacia el nuevo museo.</figcaption>
+</figure>
 
 La “piedra del lagarto” fue descubierta en la isla Puná en el año de 1904 por un sujeto que hacía una excavación en un montículo en el sitio de Cerro Alegre quien luego la trasladó a Guayaquil para exhibirla esperando obtener abundante ganancia. Al parecer no tuvo éxito y la dejó abandonada en la ciudad hasta que en noviembre de 1908 fue acogida por el M. I. Concejo Cantonal para darle una *“ubicación preferente en el Museo Municipal”* que en aquel entonces estaba ubicado en un chalet de la calle Villamil. (Revista Patria, Nov. 1908. Pág. 843).  
 
