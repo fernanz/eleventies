@@ -192,6 +192,12 @@ p {
   margin-top: 1em;
 }
 
+.fleuron {
+  font-size: 20px;
+  color: #bada55;
+  text-align: center;
+}
+  
 ul, ol {
   padding-left: 1em;
 }
