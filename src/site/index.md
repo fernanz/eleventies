@@ -53,6 +53,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 
 <img src=" {{ page.data.image }}"/>
   <h3><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a></h3>
+	<p> <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></p>
 	<p> {{ page.data.description }} </br><small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
@@ -60,9 +61,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 </div>
 
 <div class="meta-river">
-<h2>Recientes artículos</h2>
-
-Otra vez en línea, escribiendo para aprender.
+<h2>Recientes artículos</h2><small>Otra vez en línea, escribiendo para aprender.</small>
 
 <ul class="listing">
 {%- for page in collections.post | reverse -%}
@@ -115,10 +114,6 @@ Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no nece
 </figure>
 
 <div class="fleuron">&#10086;</div>
-
-
-Finalmente, por cortesía de Netlify: [Un chiste en inglés](/.netlify/functions/fetch-joke). 
-
 
 
 
