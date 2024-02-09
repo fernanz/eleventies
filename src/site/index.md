@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## Febrero 2024 
+## Febrero 2024
 
 <div class="intro">
 
@@ -25,7 +25,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 - Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
-  
+
 | Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
 | Menguante        |   Viernes 02.02.2024   	| 18:17 |
@@ -39,17 +39,17 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 - Concluyo febrero recordando tres hechos históricos importantes para nuestra nación, coinciden el 12 de febrero el descubrimiento del río Amazonas por el conquistador Orellana - **Día del Oriente ecuatoriano** -y la posesión de las Islas Galápagos (1832) durante el primer mandato del presidente Flores, - **Día del Archipiélago de Galápagos** - y, el 27 de febrero la **Batalla de Tarqui**.  
 
 ### Revisa los meses anteriores:
-	 
+
 {% for page in collections.note %}
   <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a>
 	<small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
 
-  
+
 <br/>  
 <div class="ocre-river">
-{% for page in collections.article %}
+{% for page in collections.article | reverse %}
 
 <img src=" {{ page.data.image }}"/>
   <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
@@ -72,7 +72,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
   <p class="descriptor">{{ page.data.description }}</p>
 {%- endfor -%}
 </ul>
-</div> 
+</div>
 
 
 ## Guayaquil 1929 por Carlos Endara A.  
@@ -83,20 +83,20 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 
 <div class="nakedLink">
 <div style="width:50px;display:block;float:left;margin:0;">
-  
-  [![Youtube icon](/images/youtube.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_) 
-  
+
+  [![Youtube icon](/images/youtube.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_)
+
 </div>
 </div>
-  
+
 <div style="clear:both;margin-bottom:2em;">  
-  
+
 Primera parte de la película filmada por el fotógrafo y artista Carlos Endara Andrade en donde detalla su visita a Guayaquil en 1929, esta es la versión ampliada de la descripción histórica de la ciudad con la contribución de Melvin Hoyos G. La película fue rescatada por la Universidad Andina Simón Bolívar - Sede Ecuador - con el aporte de la M. I. Municipalidad de Guayaquil en el año 2019. La restauración y rescate de la película la realizó el cineasta Álex Schlenker.
 
 </div>  
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/ec/podcast/ecuador-1929-de-carlos-endara/id1477126077?i=1000451314315"></iframe>
-  
+
 <div class="pearl-river">
 
 ## Sitios web y Apps recomendadas -FEB/2024-
@@ -109,12 +109,8 @@ Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no nece
 </div>  
 
 <figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1703369607/IMG_0885_gafzol.jpg"/>
-<figcaption> Perfil (2014). Madera petrificada. Manuel Velasteguí.</figcaption>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1707487188/IMG_20180710_111505986_ny6glq.jpg"/>
+<figcaption> Despidiéndome del Viejo Napo (2019). Museo Municipal de Guayaquil.</figcaption>
 </figure>
 
 <div class="fleuron">&#10086;</div>
-
-
-
-
