@@ -109,7 +109,7 @@ Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no nece
 </div>  
 
 <figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1707487188/IMG_20180710_111505986_ny6glq.jpg"/>
+<img src="https://res.cloudinary.com/magnvs/image/upload/v1707487188/IMG_20180710_111505986_ny6glq.jpg"/>
 <figcaption> Despidiéndome del Viejo Napo (2019). Museo Municipal de Guayaquil.</figcaption>
 </figure>
 
