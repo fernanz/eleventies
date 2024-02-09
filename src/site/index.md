@@ -52,7 +52,7 @@ Febrero para los antiguos romanos era el último mes del año, el invierno estab
 {% for page in collections.article %}
 
 <img src=" {{ page.data.image }}"/>
-  <h3><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a></h3>
+  <h2><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a></h2>
 	<p> <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></p>
 	<p> {{ page.data.description }} </br><small> {{ page.data.excerpt }}</small></p>
 
