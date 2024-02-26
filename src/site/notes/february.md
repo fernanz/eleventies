@@ -1,6 +1,6 @@
 ---
-title: febrero 2024 
-excerpt: Aparentemente el mes más lento del año.
+title: Febrero 2024 
+excerpt: Aparentemente el mes más corto del año.
 date: 2024-02-01
 ---
 
