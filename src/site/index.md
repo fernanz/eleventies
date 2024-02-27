@@ -100,13 +100,19 @@ Primera parte de la película filmada por el fotógrafo y artista Carlos Endara 
 
 <div class="pearl-river">
 
-## Sitios web y Apps recomendadas -FEB/2024-
+## RECOMENDACIÓN DEL MES
 
-Dos recomendaciones para sacarte de un apuro cuando quieres tomar notas, no necesitas descargar nada, son aplicaciones en línea fáciles de acceder con un navegador web y su URL:  
+<figure>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1708998841/IMG_20240226_201628_rckbtx.jpg"/>
+</figure>
 
-1. [TELEGRAPH](https://telegra.ph) Minimalista y muy práctica, te permite incluir imágenes junto a tu texto. Escribe directamente en la pantalla del navegador, presiona el botón "publish" y luego, si deseas compartir tu nota, copia el URL que se haya generado.  
-2. [DILLINGER](https://dillinger.io) Genera y edita archivos .md (Markdown), lenguaje de edición de textos muy sencillo y fácil de aprender. La página por defecto te presenta un modelo editable con una vista previa a la derecha. Tiene buenas funciones para exportar en formato .html .pdf .md y de igual manera para importarlos.
+Esto no es publicidad pagada, simplemente me parece justo recomendar un buen producto que tiene un precio razonable y además estamos colaborando con una buena causa. 
 
+Si te gusta un café de acidez ligera, con aroma y sabor achocolatado, deberías probar CAFÉ CAIMÁN - House Blend, el cual dice en su etiqueta: "... se cultiva en las mismas tierras que el Centro de Rescate San Isidro, un refugio que alberga fauna silvestre rescatada del tráfico y la tenencia ilegal".
+
+Pude averiguar que este centro de rescate esta ubicado en el cantón Isidro Ayora de la provincia del Guayas, desafortunadamente no he podido encontrar alguna otra información del mismo centro de rescate en internet, sólo esta nota del diario [Metro de Ecuador](https://www.metroecuador.com.ec/ec/noticias/2020/01/13/guayas-centro-de-rescate-animal-san-isidro-ecuador.html).
+
+El Café Caimán lo encontré en la cafetería El Español, el paquete de 340 g cuesta USD$ 7.00
 </div>  
 
 <figure>
