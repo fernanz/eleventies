@@ -9,7 +9,8 @@ layout: layouts/base.njk
 
 <div class="intro">
 
-Marzo nos trae un cambio de estación gracias a su equinoccio, en el hemisferio norte marca el inicio de la Primavera, en el sur el Otoño; además, este equinoccio también marca el inicio del calendario andino y, en la tradición religiosa cristiana, este equinoccio sirve para determinar la fecha de la **Pascua de Resurrección** puesto que esta debe celebrarse el domingo posterior a la primera luna llena después del equinoccio (*Concilio de Nicea -año 325-*). Este era el primer mes del calendario romano el cual estaba consagrado al dios MARTE, de allí su nombre: **"martius"**; Marte era el protector del pueblo romano, padre de Rómulo y Remo fundadores de Roma. 
+Marzo nos trae un cambio de estación gracias a su equinoccio, en el hemisferio norte marca el inicio de la Primavera, en el sur el Otoño; además, este equinoccio también marca el inicio del calendario andino y, en la tradición religiosa cristiana, este equinoccio sirve para determinar la fecha de la **Pascua de Resurrección** puesto que esta debe celebrarse el domingo posterior a la primera luna llena después del equinoccio (*Concilio de Nicea -año 325-*).  
+Este era el primer mes del calendario romano el cual estaba consagrado al dios MARTE, de allí su nombre: **"martius"**; Marte era el protector del pueblo romano, padre de Rómulo y Remo fundadores de Roma. 
 </div>
 
 **Data de almanaques y medios digitales:**
