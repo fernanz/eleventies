@@ -171,12 +171,12 @@ p {
   a:link,
   a:visited {
     color: #71797E;
-    border-bottom: solid 1px mix($accent-color, $page-color, 70%);
+    border-bottom: solid 1px rgba(255,255,255,0.7);
   }
   a:hover,
   a:focus {
     color: #71797E;
-    border-bottom: solid 1px $text-color;
+    border-bottom: solid 1px rgba(255,255,255,0.7);
   }
 }
 
