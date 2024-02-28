@@ -162,7 +162,8 @@ p {
 }
 
 .pearl-river {
-  background-color: rgba(217,221,220,0.5);
+  background-color: #2d3638;
+  color: rgba(255,255,255,0.7);
   margin: auto -1.1em;
   padding: 1em 1em 1.6em 1em;
 }
