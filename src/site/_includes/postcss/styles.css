@@ -166,10 +166,12 @@ p {
   color: rgba(255,255,255,0.7);
   margin: auto -1.1em;
   padding: 1em 1em 1.6em 1em;
+  width: 100vw;
 }
 
-.pearl-river > h2 {
+.pearl-river > h2, a {
   margin-top:1em;
+  color: orange;
 }
 
 .meta-river {
