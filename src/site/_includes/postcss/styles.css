@@ -168,15 +168,14 @@ p {
   padding: 1em 1em 1.6em 1em;
   width: 100%;
   
-  
   a:link,
   a:visited {
-    color: mix($text-color, $accent-color, 90%);
+    color: #71797E;
     border-bottom: solid 1px mix($accent-color, $page-color, 70%);
   }
   a:hover,
   a:focus {
-    color: $text-color;
+    color: #71797E;
     border-bottom: solid 1px $text-color;
   }
 }
