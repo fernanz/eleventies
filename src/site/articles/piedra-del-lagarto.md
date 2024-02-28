@@ -10,7 +10,7 @@ date: 2024-02-06
 
 **Monolito zoomorfo de la isla Puná.** (Aprox. 1400 d.C.).
 
-La comúnmente denominada “piedra del lagarto” o “piedra de los sacrificios” es un monolito de aproximadamente tres toneladas de peso, compuesto por roca sedimentaria esculpida en alto relieve, presenta dos grandes figuras de reptiles, la una se asemeja a un lagarto y la otra parece ser un felino. El bloque mide 2.72 m de largo por 2.5 m y en su parte media tiene 0.75 m de altura.  
+La comúnmente denominada “piedra del lagarto” o “piedra de los sacrificios” es un monolito de aproximadamente tres toneladas de peso, compuesto por roca sedimentaria esculpida en alto relieve, presenta dos grandes figuras de animales, la una se asemeja a un lagarto y la otra parece ser un felino. El bloque mide 2.72 m de largo por 2.5 m y en su parte media tiene 0.75 m de altura.  
 
 Este monolito es un magnífico ejemplo de la escultura monumental Guancavilca, corresponde al período de Integración (500 dc. - 1534 d.C.) de acuerdo con la periodización tradicional de las “fases cerámicas”; fue encontrada en la isla Puná, en el sitio que actualmente ocupa la comuna Campo Alegre a inicios del siglo XX.  
 
