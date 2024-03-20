@@ -16,11 +16,11 @@
 .cards img{
 	grid-area:image;
 	margin: 0;
-	padding: 0;
+	padding: 0.6rem 0rem 0rem 0rem;
 	border-radius: 3px;
 }
 .cards p{
 	grid-area:para;
-	font-size: 14px;
- line-height: 1.1;
+	font-size: 16px;
+ line-height: 1.4;
 }
