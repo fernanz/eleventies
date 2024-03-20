@@ -43,7 +43,7 @@ Este era el primer mes del calendario romano el cual estaba consagrado al dios M
 ### Revisa los meses anteriores:
 
 {% for page in collections.note %}
-  <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a>
+  <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a><br/>
 	<small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
