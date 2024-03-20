@@ -1,6 +1,6 @@
 ---
 title: Circa 100 d.C.
-description: El Museo Municipal de Guayaquil contiene interesantes muestras de arte modelado del período prehispánico, entre ellas, varias figurinas antropomorfas de la cultura Guangala.
+description: El Museo Municipal de Guayaquil exhibe obras de arte prehispánico modelado en cerámica, entre ellas, figurinas antropomorfas de la cultura Guangala.
 excerpt: Colección Museo Municipal de Guayaquil.
 image: 'https://res.cloudinary.com/magnvs/image/upload/v1577737514/gknjuj0i97vy7lhelyoa.png'
 date: 2024-02-05
