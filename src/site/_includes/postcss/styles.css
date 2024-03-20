@@ -204,11 +204,16 @@ p {
 
 .ocre-river > h2 {
   margin-top: 0.3em;
-  color: #32a2ba;
+  color: #1a1a1a;
+  padding-left: 0.8em;
 }
 
 .ocre-river > a {
-  color: #32a2ba;
+  color: #1a1a1a;
+}
+
+.ocre-river > small {
+  padding-left: 0.8em;
 }
 
 .fleuron {
