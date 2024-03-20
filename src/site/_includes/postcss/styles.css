@@ -1,6 +1,7 @@
 @import '_variables.css';
 @import '_syntax.css';
 @import '_fonts.css';
+@import '_grid.css';
 
 * {
   margin: 0;
