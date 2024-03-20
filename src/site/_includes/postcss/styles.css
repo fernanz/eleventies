@@ -68,7 +68,7 @@ section {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 94%;
+  width: 92%;
   text-align: left;
   @media (min-width: $mid) {
     width: 600px;
