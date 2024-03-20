@@ -1,6 +1,6 @@
 ---
 title: Circa 100 d.C.
-description: Una de las más grandes salas que tiene el Museo Municipal de Guayaquil es la dedicada al período Prehispánico de la historia de la región de Guayaquil, contiene interesantes muestras de arte modelado de los diferentes períodos, entre ellas varias figurinas antropomorfas como la de la imagen.
+description: El Museo Municipal de Guayaquil contiene interesantes muestras de arte modelado del período prehispánico, entre ellas, varias figurinas antropomorfas de la cultura Guangala.
 excerpt: Colección Museo Municipal de Guayaquil.
 image: 'https://res.cloudinary.com/magnvs/image/upload/v1577737514/gknjuj0i97vy7lhelyoa.png'
 date: 2024-02-05
