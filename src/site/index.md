@@ -58,9 +58,9 @@ Este era el primer mes del calendario romano el cual estaba consagrado al dios M
 	<img src=" {{ page.data.image }}"/>
   <p> <time datetime="{{ page.date }}"><b>{{ page.date | dateDisplay("LLLL d, y") }}</b></time><br/>
 {{ page.data.description }} </br><small> {{ page.data.excerpt }}</small></p>
+</div>
 
 {% endfor %}
-</div>
 </div>
 
 <div class="meta-river">
