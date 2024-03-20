@@ -7,15 +7,17 @@
 	grid-template-areas:
 		"image heading"
 		"image para";
-	grid-column-gap:0.7rem;
+	grid-column-gap:0.5rem;
 }
 .cards h2{
 	grid-area:heading;
-	margin-bottom: 0.5rem;
+	margin-bottom: 0.3rem;
 }
 .cards img{
 	grid-area:image;
 }
 .cards p{
 	grid-area:para;
+	font-size: 14px;
+ line-height: 1.1;
 }
