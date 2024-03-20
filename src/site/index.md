@@ -52,7 +52,7 @@ Este era el primer mes del calendario romano el cual estaba consagrado al dios M
 <br/>  
 <div class="ocre-river">
 
-<h2>Artículos destacados</h2><p><small>Este es el último año de nuestra vida como la conocíamos</small></p>
+<h2>Artículos destacados</h2><p><small>Este es el último año de nuestra vida tal como la conocíamos</small></p>
 
 {% for page in collections.article | reverse %}
 
