@@ -53,13 +53,14 @@ Este era el primer mes del calendario romano el cual estaba consagrado al dios M
 <div class="ocre-river">
 {% for page in collections.article | reverse %}
 
-<img src=" {{ page.data.image }}"/>
+<div class="cards">
   <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
-	<p> <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></p>
+	<img src=" {{ page.data.image }}"/>
+  <p> <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></p>
 	<p> {{ page.data.description }} </br><small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
-
+</div>
 </div>
 
 <div class="meta-river">
