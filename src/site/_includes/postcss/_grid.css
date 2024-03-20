@@ -19,6 +19,7 @@
 	margin-top: 0.5rem;
 	padding: 0.5rem 0rem 0rem 0rem;
 	border-radius: 3px;
+	border: 1px solid rgba(255,255,255,0.5);	
 }
 .cards p{
 	grid-area:para;
