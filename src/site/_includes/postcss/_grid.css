@@ -7,7 +7,7 @@
 	grid-template-areas:
 		"image heading"
 		"image para";
-	grid-column-gap:0.5rem;
+	grid-column-gap:1rem;
 }
 .cards h2{
 	grid-area:heading;
