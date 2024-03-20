@@ -199,11 +199,11 @@ p {
 .ocre-river {
   background-color: rgba(160,217,229,.1);
   margin: auto -1.1em;
-  padding: .7em 1em 1em 1em;
+  padding: 1em 0.3em;
 }
 
 .ocre-river > h2 {
-  margin-top: 0.5em;
+  margin-top: 0;
   color: #32a2ba;
 }
 
