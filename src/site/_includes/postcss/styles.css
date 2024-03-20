@@ -167,6 +167,7 @@ p {
   color: rgba(255,255,255,0.7);
   margin: auto -1.1em;
   padding: 1em 1em 1.6em 1em;
+  border-radius: 5px;
   width: 100%;
   
   a:link,
@@ -190,6 +191,7 @@ p {
   background-color: #a0d9e5;
   margin: 0 -1.1em;
   padding: 1.4em 1em 1.4em 1em;
+  border-radius: 0 5px 5px 0;
 }
 
 .meta-river > h2 {
@@ -200,6 +202,7 @@ p {
   background-color: rgba(160,217,229,.1);
   margin: auto -1.1em;
   padding: 1.8em 0.2em 1.2em 0.2em;
+  border-radius: 5px 0 0 5px;
 }
 
 .ocre-river > h2 {
