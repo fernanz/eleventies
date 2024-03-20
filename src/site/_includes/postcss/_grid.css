@@ -15,6 +15,9 @@
 }
 .cards img{
 	grid-area:image;
+	margin: 0;
+	padding: 0;
+	border-radius: 3px;
 }
 .cards p{
 	grid-area:para;
