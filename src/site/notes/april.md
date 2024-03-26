@@ -35,18 +35,3 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 
 
 - Concluyo abril recordando un hecho histórico para nuestra nación, el 21 de abril de 1822 sucedió la **Batalla de Tapi**** o Batalla de Riobamba; en consecuencia, debido al triunfo de las tropas libertadoras, para esta fecha se conmemora la **Independencia de Riobamba**.
-
-
-## RECOMENDACIÓN DEL MES
-
-<figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1708998841/IMG_20240226_201628_rckbtx.jpg"/>
-</figure>
-
-Esto no es publicidad pagada, simplemente me parece justo recomendar un buen producto que tiene un precio razonable y además estamos colaborando con una buena causa. 
-
-Si te gusta un café de acidez ligera, con aroma y sabor achocolatado, deberías probar CAFÉ CAIMÁN - House Blend, el cual dice en su etiqueta: "... se cultiva en las mismas tierras que el Centro de Rescate San Isidro, un refugio que alberga fauna silvestre rescatada del tráfico y la tenencia ilegal".
-
-Pude averiguar que este centro de rescate esta ubicado en el cantón Isidro Ayora de la provincia del Guayas, desafortunadamente no he podido encontrar alguna otra información del mismo centro de rescate en internet, sólo esta nota del diario [Metro de Ecuador](https://www.metroecuador.com.ec/ec/noticias/2020/01/13/guayas-centro-de-rescate-animal-san-isidro-ecuador.html).
-
-El Café Caimán lo encontré en la cafetería El Español, el paquete de 340 g cuesta USD$ 7.00
