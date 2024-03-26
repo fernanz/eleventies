@@ -34,4 +34,4 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 <br/>  
 
 
-- Concluyo abril recordando un hecho histórico para nuestra nación, el 21 de abril de 1822 sucedió la **Batalla de Tapi**** o Batalla de Riobamba; en consecuencia, debido al triunfo de las tropas libertadoras, para esta fecha se conmemora la **Independencia de Riobamba**.
+- Concluyo abril recordando un hecho histórico para nuestra nación, el 21 de abril de 1822 sucedió la **Batalla de Tapi** o Batalla de Riobamba; en consecuencia, debido al triunfo de las tropas libertadoras, para esta fecha se conmemora la **Independencia de Riobamba**.
