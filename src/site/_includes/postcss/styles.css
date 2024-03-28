@@ -163,7 +163,7 @@ p {
 }
 
 .pearl-river {
-  background-image: linear-gradient(#2d3638 87%, $accent-color 60%);
+  background-image: linear-gradient(#2d3638 67%, $accent-color);
   color: rgba(255,255,255,0.7);
   margin: auto -1.1em;
   padding: 1em 1em 1.6em 1em;
