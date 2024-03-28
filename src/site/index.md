@@ -110,8 +110,9 @@ El pasado 26 de marzo falleció en su país el escultor norteamericano Richard S
 **Somos estrellas - Una guía moderna de astrología** de *Juliana McCarthy* es una buena opción para aprender a leer tu carta astral, fácil de seguir y para aprender sobre tu signo solar, lunar,  tu signo ascendente y el significado de los aspectos planetarios entre otras nociones básicas de la astrología.  
 La versión física del libro la adquirí en la Librería Española, está en USD$ 18.99; si prefieres la digital de Amazon USD$ 9.99 abajo está el link.  
 
+<div class="middle">
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07PK9WP6Q&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_G6MJ1B0NCFB3H7MJJMZC&tag=fernanz-20" ></iframe>
-
+</div>
 </div>  
 
 <figure>
