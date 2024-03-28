@@ -318,6 +318,12 @@ img.wide-opaque {
   z-index: 0;
 }
 
+.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 code {
   font-size: 0.8em;
   background-color: mix($text-color,$accent-color, 80%);
