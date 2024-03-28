@@ -88,7 +88,7 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 <div class="nakedLink">
 <div style="width:50px;display:block;float:left;margin:0;">
 
-  [![Youtube icon](/images/youtube.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_)
+  [![Youtube icon](/images/youtube-red.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_)
 
 </div>
 </div>
