@@ -117,8 +117,8 @@ Pude averiguar que este centro de rescate esta ubicado en el cantón Isidro Ayor
 </div>  
 
 <figure>
-<img src="https://res.cloudinary.com/magnvs/image/upload/v1707487188/IMG_20180710_111505986_ny6glq.jpg"/>
-<figcaption> Despidiéndome del Viejo Napo (2019). Museo Municipal de Guayaquil.</figcaption>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711656482/IMG_20210518_131436_c8r70x.jpg"/>
+<figcaption> Carlos Aurelio Rubira (2021). Detalle del retrato realizado por la artista Hellen Constante para la ciudad de Amabato.</figcaption>
 </figure>
 
 <div class="fleuron">&#10086;</div>
