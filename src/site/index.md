@@ -118,7 +118,7 @@ Pude averiguar que este centro de rescate esta ubicado en el cantón Isidro Ayor
 
 <figure>
 <img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711656482/IMG_20210518_131436_c8r70x.jpg"/>
-<figcaption> Carlos Aurelio Rubira (2021). Detalle del retrato realizado por la artista Hellen Constante para la ciudad de Amabato.</figcaption>
+<figcaption> Carlos Aurelio Rubira (2021). Detalle del retrato realizado por la artista Hellen Constante para la ciudad de Ambato.</figcaption>
 </figure>
 
 <div class="fleuron">&#10086;</div>
