@@ -96,11 +96,9 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 <div style="clear:both;margin-bottom:2em;">  
 
 
-El pasado 26 de marzo falleció en su país el escultor norteamericano Richard Serra, conocido por trabajar esculturas urbanas de grandes dimensiones con acero corten. ¿Qué tan importante fue su obra para el arte de nuestro tiempo? Pues, el escritor *Manfred Schneckenburger*, anotaría *"Richard Serra dominó la escultura estadounidense durante tres décadas. Rompió con las convenciones como ningún otro escultor, si bien conservó el lenguaje elemental de la plasticidad en su forma más estricta. Serra es ese bicho raro, es un escultor genuino que sometió paisajes y ciudades enteras a su escultura. Al hacerlo tomó el peso, la masa, la gravedad y su desarrollo hacia la dirección, la secuencia y el horizonte y los tranformò en aspectos escultóricos."*. *Iker Seisdedos* escribe para en El Pais una muy buena, concisa y no empalagosa reseña biográfica del escultor: ("Muere Richard Serra, escultor del acero y del tiempo")[https://elpais.com/cultura/2024-03-27/muere-richard-serra-escultor-del-acero-y-del-tiempo.html].
+El pasado 26 de marzo falleció en su país el escultor norteamericano Richard Serra, conocido por trabajar esculturas urbanas de grandes dimensiones con acero corten. ¿Qué tan importante fue su obra para el arte de nuestro tiempo? Pues, el escritor *Manfred Schneckenburger*, anotaría *"Richard Serra dominó la escultura estadounidense durante tres décadas. Rompió con las convenciones como ningún otro escultor, si bien conservó el lenguaje elemental de la plasticidad en su forma más estricta. Serra es ese bicho raro, es un escultor genuino que sometió paisajes y ciudades enteras a su escultura. Al hacerlo tomó el peso, la masa, la gravedad y su desarrollo hacia la dirección, la secuencia y el horizonte y los tranformò en aspectos escultóricos."*. *Iker Seisdedos* escribe para en El Pais una muy buena, concisa y no empalagosa reseña biográfica del escultor: (Muere Richard Serra, escultor del acero y del tiempo)[https://elpais.com/cultura/2024-03-27/muere-richard-serra-escultor-del-acero-y-del-tiempo.html].
 
-#</div>  
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/ec/podcast/ecuador-1929-de-carlos-endara/id1477126077?i=1000451314315"></iframe>
+</div>  
 
 <div class="pearl-river">
 
