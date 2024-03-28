@@ -104,7 +104,7 @@ El pasado 26 de marzo falleció en su país el escultor norteamericano Richard S
 ## RECOMENDACIÓN DEL MES
 
 <figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1708998841/IMG_20240226_201628_rckbtx.jpg"/>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711657542/IMG_1622_rvdgzp.jpg"/>
 </figure>
 
 Esto no es publicidad pagada, simplemente me parece justo recomendar un buen producto que tiene un precio razonable y además estamos colaborando con una buena causa. 
