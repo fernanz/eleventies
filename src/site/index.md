@@ -79,25 +79,26 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 </div>
 
 
-## Guayaquil 1929 por Carlos Endara A.  
+## Richard Serra (1938-2024).  
 
 <div class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1569034596/wzsgteeuryfsesmxjcig.png"/>
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/ar_16:9,c_fill,e_sharpen,g_auto,h_375,w_1000/v1711594290/IMG_1620_kjrplp.jpg"/>
 </div>
 
 <div class="nakedLink">
 <div style="width:50px;display:block;float:left;margin:0;">
 
-  [![Youtube icon](/images/youtube-red.svg)](https://youtu.be/noyqmW9v8Gw?si=I5DZJxCM_bRPccV_)
+  [![Youtube icon](/images/youtube-red.svg)](https://youtu.be/ra0L_53uUbY?si=L9Wm-vQFAsykolMM)
 
 </div>
 </div>
 
 <div style="clear:both;margin-bottom:2em;">  
 
-Primera parte de la película filmada por el fotógrafo y artista Carlos Endara Andrade en donde detalla su visita a Guayaquil en 1929, esta es la versión ampliada de la descripción histórica de la ciudad con la contribución de Melvin Hoyos G. La película fue rescatada por la Universidad Andina Simón Bolívar - Sede Ecuador - con el aporte de la M. I. Municipalidad de Guayaquil en el año 2019. La restauración y rescate de la película la realizó el cineasta Álex Schlenker.
 
-</div>  
+El pasado 26 de marzo falleció en su país el escultor norteamericano Richard Serra, conocido por trabajar esculturas urbanas de grandes dimensiones con acero corten. ¿Qué tan importante fue su obra para el arte de nuestro tiempo? Pues, el escritor *Manfred Schneckenburger*, anotaría *"Richard Serra dominó la escultura estadounidense durante tres décadas. Rompió con las convenciones como ningún otro escultor, si bien conservó el lenguaje elemental de la plasticidad en su forma más estricta. Serra es ese bicho raro, es un escultor genuino que sometió paisajes y ciudades enteras a su escultura. Al hacerlo tomó el peso, la masa, la gravedad y su desarrollo hacia la dirección, la secuencia y el horizonte y los tranformò en aspectos escultóricos."*. *Iker Seisdedos* escribe para en El Pais una muy buena, concisa y no empalagosa reseña biográfica del escultor: ("Muere Richard Serra, escultor del acero y del tiempo")[https://elpais.com/cultura/2024-03-27/muere-richard-serra-escultor-del-acero-y-del-tiempo.html].
+
+#</div>  
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/ec/podcast/ecuador-1929-de-carlos-endara/id1477126077?i=1000451314315"></iframe>
 
