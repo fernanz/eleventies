@@ -104,7 +104,7 @@ El pasado 26 de marzo falleció en su país el escultor norteamericano Richard S
 ## RECOMENDACIÓN DEL MES
 
 <figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1708998841/IMG_20240226_201628_rckbtx.jpg"/>
+<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711657542/IMG_1622_rvdgzp.jpg"/>
 </figure>
 
 **Somos estrellas - Una guía moderna de astrología** de *Juliana McCarthy* es una buena opción para aprender a leer tu carta astral, fácil de seguir y para aprender sobre tu signo solar, lunar,  tu signo ascendente y el significado de los aspectos planetarios, entre otras nociones básicas de la astrología. La versión física del libro la adquirí en la Librería Española.  
