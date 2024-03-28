@@ -319,8 +319,9 @@ img.wide-opaque {
 }
 
 .middle {
-  margin: auto;
-  width: 92%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 code {
