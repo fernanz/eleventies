@@ -89,7 +89,7 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 
 </div>
 </div>
-<h2 style="margin-top:1em;">Richard Serra (1938-2024)</h2>
+<h2 style="margin-top:1.7em;">Richard Serra (1938-2024)</h2>
 <div style="clear:both;margin-bottom:2em;">  
 
 El pasado 26 de marzo falleció en su país el escultor norteamericano Richard Serra, era conocido por trabajar esculturas urbanas de grandes dimensiones con acero corten. ¿Qué tan importante fue su obra para el arte de nuestro tiempo? Pues, el escritor *Manfred Schneckenburger*, anotaría al respecto: *"Richard Serra dominó la escultura estadounidense durante tres décadas. Rompió con las convenciones como ningún otro escultor, si bien conservó el lenguaje elemental de la plasticidad en su forma más estricta. Serra es ese bicho raro, es un escultor genuino que sometió paisajes y ciudades enteras a su escultura. Al hacerlo tomó el peso, la masa, la gravedad y su desarrollo hacia la dirección, la secuencia y el horizonte y los tranformò en aspectos escultóricos."*. *Iker Seisdedos* escribe para El Pais una muy buena, concisa y no empalagosa reseña biográfica del escultor: [Muere Richard Serra, escultor del acero y del tiempo](https://elpais.com/cultura/2024-03-27/muere-richard-serra-escultor-del-acero-y-del-tiempo.html).
