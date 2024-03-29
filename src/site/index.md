@@ -81,7 +81,7 @@ Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo m
 
 ## Richard Serra (1938-2024).  
 
-<div class="full-width">
+<div id="serra" class="full-width">
 <img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/ar_16:9,c_fill,e_sharpen,g_auto,h_375,w_1000/v1711594290/IMG_1620_kjrplp.jpg"/>
 </div>
 
