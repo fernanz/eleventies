@@ -37,10 +37,6 @@ body {
     font-size: 18px;
   };
 }
-
-header {
-  background-color: rgb(255,165,0);
-  }
   
 section > a > img {
   width: 100%;
