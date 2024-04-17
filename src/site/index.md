@@ -4,39 +4,42 @@ subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y lite
 layout: layouts/base.njk
 ---
 
-## Abril 2024
+## Mayo 2024
 
 <div class="intro">
 
-Es oficial, una nueva temporada de eclipses está en marcha y este mes presenciaremos un eclipse solar total, el anterior fue el 4 de diciembre de 2021 y pudo ser visto sólo desde la Antártida.  
+Se creía que Mayo era muy propicio para los enamoramientos que incluso la mujer menos agraciada encontraba novio, de allí que era popular el refrán español: "En mayo todas las feas se casan".  
 <br/>
-Etimológicamente abril viene del vocablo latín "Aprilis", nombre del segundo mes en el antiguo calendario romano; a su vez también existe la teoría que vincula "abril" con la palabra griega *"aphrós"* en referencia a la diosa Afrodita, deidad directamente relacionada con la Primavera. Este mes estaba consagrado a la diosa Afrodita o Venus (para los romanos).
+Este mes toma su nombre de la diosa romana *"Maia"* a quien estaba dedicado; Maia es la personificación del crecimiento de las plantas, por ende diosa de la fertilidad y de la Primavera; además, es interesante notar que desde el 28 de abril, hasta el 3 de mayo los romanos también celebraran -*"los floraria"*- o juegos florales en honor a *"Flora"* la diosa de las flores.  
+A partir de la Edad Media, los cristianos empezaron a asociar este mes con la devoción a la Virgen María, y fueron los dominicos y los franciscanos quienes empezaron a fomentar esta tradición en Italia, luego el Papa Pío VII (1800 - 1823) la extendió a toda la Iglesia Católica.
 
 </div>
 
 **Data de almanaques y medios digitales:**
 
-- El lunes 8 de abril tenemos el primer eclipse solar del año, será un **eclipse total** visto desde México, la zona central y noreste de EE.UU. y parte de Canadá; **será parcial** en Hawai, Galápagos, Centroamérica y El Caribe. El eclipse se transmitirá en directo desde el sitio oficial de la NASA en [YouTube](https://www.youtube.com/live/2MJY_ptQW1o?si=gSLYPRVcPlkEJWgs) a las 12h00 tiempo de Ecuador (GMT -5). Este eclipse solar coincide con la Luna Nueva de abril.
-- El sábado 13 de abril, en Ecuador, celebramos el **Día del Maestro** en homenaje al gran escritor y pensador Ambateño *Juan Montalvo Fiallos*, nacido en esta fecha en el año 1832.  
-- El ocaso del lunes 22 da inicio a la **Pascua Judía** *(Passover)* o celebración de la libertad, esta festividad concluye el martes 30 de abril. El pueblo hebreo conmemora la salida de Egipto hacia la Tierra Prometida y el fin de la esclavitud liderados por Moisés.
-- El 25 de abril es el día de **San Marcos Evangelista** autor del segundo evangelio canónico, evangelio escrito entre los años 65 y 75 donde recoge las enseñanzas de Jesús como las contaría San Pedro, de quien Marcos era compañero y discípulo. San Marcos es el santo patrón de Venecia, ciudad donde reposan sus reliquias desde el siglo IX, según cuenta la tradición de esta ciudad.
-- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de abril se la denomina LUNA DEL CRECIMIENTO / LUNA DE HIERBA y representa el crecimiento salvaje de la vegetación, los nuevos comienzos que trae la Primavera. Debido a que en esta época del año florece el Flox musgoso *Phlox subulata*, una planta nativa del este de Norteamérica, esta luna también se la conoce como LUNA ROSA.
-- En este mes tendremos una **luna llena en escorpio**, se cree que esta luna es muy potente y transformadora a nivel espiritual.
-- Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
+- El 1 de mayo, de acuerdo con la tradición Celta, en el hemisferio Norte se celebra uno de los cuatro festivales del fuego, el que anuncia el verano, el festival del *buen fuego*: **Beltane**. En esta época, los antiguos celtas honraban a *Bel* o *Belenos* cuyo nombre significa *"dios resplandeciente"*; era un dios que traía vitalidad, fuerza y juventud a todo el mundo, en consecuencia también sus rituales estaban relacionados con la fertilidad. 
+- El 1 de Mayo es el **Día del trabajo"**, en Ecuador se traslada al viernes 3 de mayo, es un feriado no recuperable. Este día se conmemoran las luchas históricas y los logros de la clase trabajadora; su origen está en las protestas de mayo (1886) de los obreros de Chicago por mejores condiciones laborales; curiosamente Estados Unidos y Canadá celebran el "Día del trabajo" el primer lunes de septiembre.
+- La fiesta nacional mexicana del **Cinco de Mayo**, también celebrada en Estados Unidos, este año cae en día viernes. México celebra la victoria en la Batalla de Puebla ante la Francia Imperial de Napoleón III.  
+- Mayo es el mes dedicado a la Virgen María y todas las madres en gran parte del mundo: España celebra el **"Día de la Madre"** el primer domingo del mes; México, Guatemala, El Salvador y Bélice el 10 de mayo; Francia el último domingo de mayo. Entre los países que celebramos el **Día de la Madre"** el SEGUNDO DOMINGO DE MAYO están Japón, Venezuela, Colombia, Uruguay, Perú, Puerto Rico, Honduras, Chile, Estados Unidos y por supuesto Ecuador.  
+- El domingo 19 de mayo es **Pentecostés** *(quincuagésimo día después de la Pascua)* importante celebración cristiana que recuerda la venida del Espíritu Santo quien desciende sobre los Apóstoles *(Hechos, Capítulo 2)*.
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de mayo se la denomina LUNA DE LAS PAREJAS / LUNA DE LAS FLORES gracias al abundante florecimiento de la Primavera en apogeo. Para los pueblos nativos Dakota y Lakota, la luna llena de mayo se llama "planting moon" o luna de la siembra.
+- En mayo tendremos una **luna llena en sagitario**, a nivel astrológico se piensa que esta luna invoca nuestro lado más explorador y culto, abre nuestra consciencia y nos ayuda a visualizar el lado más profundo de nuestra existencia.
+- Mayo nos trae cinco fases lunares y se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
 
 | Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
-| Menguante        |   Lunes 01.04.2024   	| 22:14 |
-| Nueva           |   Lunes 08.04.2024   	| 13:20 |
-| Creciente    |  Lunes 15.04.2024   	| 14:12 |
-| Llena |  Martes 23.04.2024   	| 18:48 |  
+| Menguante        |   Miércoles 01.05.2024   	| 06:27 |
+| Nueva           |   Martes 07.05.2024   	| 22:21 |
+| Creciente    |  Miércoles 15.05.2024   	| 06:47 |
+| Llena |  Jueves 23.05.2024   	| 08:52 |  
+| Menguante        |   Jueves 30.05.2024   	| 12:12 |  
 
 <br/>  
 
-- Concluyo abril recordando un hecho histórico para nuestra nación, el 21 de abril de 1822 sucedió la **Batalla de Tapi** o Batalla de Riobamba; en consecuencia, debido al triunfo de las tropas libertadoras, para esta fecha se conmemora la **Independencia de Riobamba**.
-
+- El viernes 24 de Mayo de celebramos el triunfo de la **Batalla de Pichincha**, este hecho histórico sucedió en 1822 y sellaría definitivamente la Independencia de nuestra nación de la Corona española, esta fecha es feriado nacional.
+- El jueves 30 de mayo, el santoral católico, marca el día de **Juana de Arco, Doncella de Orleans** (1412 - 1431) también conocida como *Jeanne D'Arc; Giovanna d'Arco; Joan of Arc*. Hija de labradores humildes es famosa por salvar a Francia de la desgracia de la invasión extranjera; la tradición cuenta que guiada por visiones, santos y ángeles, Juana llevó a los ejércitos de Francia a la Victoria; fue capturada por los ingleses en Ruan, acusada de brujería, herejía, travestismo y tenencia de armas entre otras cosas, fue sentenciada  a morir quemada en la hoguera.  
   
 ### Revisa los meses anteriores:
 
