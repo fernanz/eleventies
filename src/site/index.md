@@ -118,7 +118,8 @@ La versión física del libro la adquirí en la Librería Española, está en US
 <figure>
 <img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711656482/IMG_20210518_131436_c8r70x.jpg"/>
 <figcaption> Carlos Aurelio Rubira (2021). Detalle del retrato realizado por la artista Hellen Constante para la ciudad de Ambato.</figcaption>
-</figure>
+</figure>  
+
 
 <script data-letterbirduser="fmayorga-uno" src="https://letterbird.co/embed/v1.js"></script>
 <div class="fleuron">&#10086;</div>
