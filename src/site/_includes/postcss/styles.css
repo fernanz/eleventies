@@ -219,6 +219,10 @@ p {
   padding-left: 0.8em;
 }
 
+.no-river {
+  margin: 20px auto;
+}
+
 .fleuron {
   font-size: 30px;
   color: #bada55;
