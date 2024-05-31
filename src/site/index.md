@@ -121,5 +121,5 @@ La versión física del libro la adquirí en la Librería Española, está en US
 </figure>  
 
 
-<script data-letterbirduser="fmayorga-uno" data-showheader="true" datatargetelement="ocre-river" src="https://letterbird.co/embed/v1.js"></script>
+<script data-letterbirduser="fmayorga-uno" data-showheader="true" data-targetelement="ocre-river" src="https://letterbird.co/embed/v1.js"></script>
 <div class="fleuron">&#10086;</div>
