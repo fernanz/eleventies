@@ -7,7 +7,7 @@ date: 2024-06-05
 <div class="intro">
 
 Este mes es muy importante para los pueblos originarios de los Andes; tanto por la llegada del solsticio que se celebra con el *Inti Raymi* o, por las fiestas religiosas de caracter sincrético como las de San Juan y de los santos apóstoles Pedro y Pablo; además, en este mes destacan entre las fiestas populares ecuatorianas, los Toros de Pueblo, por ejemplo tenemos las realizadas en el Cantón Mocha (Provincia de Tungurahua), Otavalo (Imbabura) y Cayambe (Pichincha).
-<br/>
+<br/><br/>
 Junio o *"Iunius"* era el cuarto mes del primitivo calendario lunar romano, el cual estaba dedicado a la diosa Juno; al ser esta una de las tres divinidades principales de la religión romana o de la *Triada Capitolina* se la invocaba con el epíteto de *Iuno Regina*, los otros dos dioses eran Júpiter y Minerva. Juno era la esposa de Júpiter, protectora de las mujeres casadas, de las mujeres embarazadas y de los partos.
 </div>
 
