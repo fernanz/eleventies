@@ -47,8 +47,7 @@ Junio o *"Iunius"* era el cuarto mes del primitivo calendario lunar romano, el c
 ### Revisa los meses anteriores:
 
 {% for page in collections.note %}
-  <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a><br/>
-	<small> {{ page.data.excerpt }}</small></p>
+  <p><a href="{{ page.url }}"><strong>{{ page.data.title }}</strong></a> &middot; <small> {{ page.data.excerpt }}</small></p>
 
 {% endfor %}
 
