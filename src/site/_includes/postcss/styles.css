@@ -160,6 +160,7 @@ p {
 .descriptor {
   font-family: 'Inter',sans-serif;
   font-weight: 400;
+  line-height: 1.4;
 }
 
 .pearl-river {
