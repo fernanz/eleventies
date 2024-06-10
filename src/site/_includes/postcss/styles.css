@@ -163,8 +163,8 @@ p {
   line-height: 1.4;
 }
 
-.pearl-river {
-  background-image: linear-gradient(#2d3638 57%, $accent-color);
+.purple-river {
+  background-image: linear-gradient(#8aa5de 57%, $accent-color);
   color: rgba(255,255,255,0.7);
   margin: auto -1.1em;
   padding: 1em 1em 1.6em 1em;
@@ -183,19 +183,19 @@ p {
   }
 }
 
-.pearl-river > h2 {
+.purple-river > h2 {
   margin-top:1em;
   color: orange;
 }
 
-.purple-sky {
-  background-color: rgba(138,165,222,1);
+.peach-sky {
+  background-color: rgba(223,177,143,1);
   margin: 0 -1.1em;
   padding: 1.4em 1em 1.4em 1em;
   border-radius: 0 0 7px 7px;
 }
 
-.purple-sky > h2 {
+.peach-sky > h2 {
   margin-top:1em;
 }
 
