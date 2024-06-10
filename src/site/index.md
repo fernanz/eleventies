@@ -53,7 +53,7 @@ Junio o *"Iunius"* era el cuarto mes del primitivo calendario lunar romano, el c
 
 
 <br/>  
-<div class="ocre-river">
+<div class="artic-sky">
 
 <h2>Artículos destacados</h2><p><small>Este es el último año de nuestra vida tal como la conocíamos</small></p>
 
@@ -69,7 +69,7 @@ Junio o *"Iunius"* era el cuarto mes del primitivo calendario lunar romano, el c
 {% endfor %}
 </div>
 
-<div class="meta-river">
+<div class="purple-river">
 <h2><a href="/2024">Artículos anteriores 2024</a></h2><p><small>Otra vez en línea, escribiendo para aprender.</small><p>
 
 <ul class="listing">
