@@ -69,7 +69,7 @@ Junio o *"Iunius"* era el cuarto mes del primitivo calendario lunar romano, el c
 {% endfor %}
 </div>
 
-<div class="purple-sky">
+<div class="peach-sky">
 <h2><a href="/2024">Artículos anteriores 2024</a></h2><p><small>Otra vez en línea, escribiendo para aprender.</small><p>
 
 <ul class="listing">
@@ -101,7 +101,7 @@ El pasado 26 de marzo falleció en su país el escultor norteamericano Richard S
 
 </div>  
 
-<div class="pearl-river">
+<div class="purple-river">
 
 ## RECOMENDACIÓN DEL MES
 
