@@ -188,35 +188,35 @@ p {
   color: orange;
 }
 
-.meta-river {
-  background-color: #a0d9e5;
+.purple-sky {
+  background-color: rgba(138,165,222,1);
   margin: 0 -1.1em;
   padding: 1.4em 1em 1.4em 1em;
   border-radius: 0 0 7px 7px;
 }
 
-.meta-river > h2 {
+.purplr-sky > h2 {
   margin-top:1em;
 }
 
-.ocre-river {
-  background-color: rgba(160,217,229,.1);
+.artic-sky {
+  background-color: rgba(138,187,223,1);
   margin: auto -1.1em;
   padding: 1.8em 0.2em 1.2em 0.2em;
   border-radius: 7px 7px 0 0;
 }
 
-.ocre-river > h2 {
+.artic-sky > h2 {
   margin-top: 0.3em;
   color: #1a1a1a;
   padding-left: 0.7em;
 }
 
-.ocre-river > a {
+.artic-sky > a {
   color: #1a1a1a;
 }
 
-.ocre-river > p {
+.artic-sky > p {
   padding-left: 0.8em;
 }
 
