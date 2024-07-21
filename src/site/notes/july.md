@@ -13,6 +13,7 @@ Este es el mes dedicado a uno de los santos más populares de la cristiandad des
 
 **Data de almanaques y medios digitales:**
 
+- Cada 26 de julio, inicia el año nuevo según el calendario de los antiguos mayas (Sincronario Maya Galáctico); este año 2024 pasaremos del kin "Mago entonado blanco" al **"Tormenta rítmica azul"**. En consecuencia, cada 25 de julio, en este calendario, da término al año; este es el "Día fuera de tiempo", un día de reflexión y preparación para el nuevo ciclo que inicia al día siguiente.  Más detalles en este artículo del [Clarin](https://www.clarin.com/astrologia/calendario-maya-2024-energias-sincronario-maya-galactico-ano-comienza_0_bzG2Nyfqih.html).  
 - El 4 de julio Estados Unidos celebra el **Día de la Independencia** cuya declaración se firmó en 1776.  
 - En nuestro país, julio, no tiene feriados nacionales; sin embargo hay una extensa agenda de feriados locales, la mayoría celebran fechas de cantonización o creación. El diario [El Universo](https://www.eluniverso.com/noticias/ecuador/que-dias-son-feriado-en-julio-del-2024-en-ecuador-nota/) recoge las fechas más notadas para Ecuador en este mes.  
 - El 24 de julio (1783) se conmemora el natalicio del Gral. Simón Bolívar, militar y político venezolano que logró la independencia de la Corona Española de Venezuela, Colombia, Ecuador, Perú y Bolivia. Creó la Gran Colombia, estado que se desintegró en 1830 el mismo año de su muerte.
