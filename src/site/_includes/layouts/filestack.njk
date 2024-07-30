@@ -16,11 +16,11 @@
 
       {% include "footer.njk" %}
     </div>
-<script>{{ js | jsmin | safe }}</script>
 <script src="//static.filestackapi.com/filestack-js/3.x.x/filestack.min.js"></script>
-<script>{{ const client = filestack.init(AyRFVFuQmQCiM7iCPDo1Vz);
-	client.picker().open(); }}</script>
+		{% set js %}
+      {% include "js/picker.js" %}
+    {% endset %}
+    <script>{{ js | jsmin | safe }}</script>
 
-		
   </body>
 </html>
