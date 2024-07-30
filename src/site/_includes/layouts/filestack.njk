@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/styles.css">
     <title>{{ title }}</title>
-		<script src="//static.filestackapi.com/filestack-js/3.x.x/filestack.min.js"></script>
+		
   </head>
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
 
@@ -18,7 +18,8 @@
     </div>
 
 		{% set js %}
-      {% include "js/picker.js" %}
+      {% include "js/uri.js" %}
+			{% include "js/picker.js" %}
     {% endset %}
     <script>{{ js | jsmin | safe }}</script>
 
