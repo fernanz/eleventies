@@ -76,8 +76,8 @@ Este es el mes dedicado a uno de los santos más populares de la cristiandad des
 </ul>
 </div>
 
-<div id="serra" class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1722418012/Imagen_HEIF_wx5qqw.heic"/>
+<div id="santiago" class="full-width">
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1722418552/IMG_1966_aw6l2e.jpg"/>
 </div>
 
 <div class="nakedLink">
