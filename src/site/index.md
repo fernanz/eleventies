@@ -87,11 +87,14 @@ Este es el mes dedicado a uno de los santos más populares de la cristiandad des
 
 </div>
 </div>
-<h2 style="margin-top:1.8em;">Richard Serra (1938-2024)</h2>
+<h2 style="margin-top:1.8em;">Santiago Apostol</h2>
 <div style="clear:both;margin-bottom:2em;">  
 
-El pasado 26 de marzo falleció en su país el escultor norteamericano Richard Serra, era conocido por trabajar esculturas urbanas de grandes dimensiones con acero corten. ¿Qué tan importante fue su obra para el arte de nuestro tiempo? Pues, el escritor *Manfred Schneckenburger*, anotaría al respecto: *"Richard Serra dominó la escultura estadounidense durante tres décadas. Rompió con las convenciones como ningún otro escultor, si bien conservó el lenguaje elemental de la plasticidad en su forma más estricta. Serra es ese bicho raro, es un escultor genuino que sometió paisajes y ciudades enteras a su escultura. Al hacerlo tomó el peso, la masa, la gravedad y su desarrollo hacia la dirección, la secuencia y el horizonte y los tranformò en aspectos escultóricos."*. *Iker Seisdedos* escribe para El Pais una muy buena, concisa y no empalagosa reseña biográfica del escultor: [Muere Richard Serra, escultor del acero y del tiempo](https://elpais.com/cultura/2024-03-27/muere-richard-serra-escultor-del-acero-y-del-tiempo.html).
+Uno de los santos más populares de la cristiandad desde tiempos medievales; apostol, peregrino y caballero: *Santiago el Mayor*. De perfil legendario jugó un papel importante en el imaginario popular del período de Reconquista hispano a finales del siglo XV, convirtiéndose en el protector de la cristiandad contra los musulmanes e incluso llegando a América con los conquistadores quienes en su honor bautizaron varias de sus fundaciones con su nombre como es el caso de Santiago de Guayaquil, Santiago de Chile, Santiago de Cuba y Santiago de los Caballeros (República Dominicana), entre otras. Santiago es el Patrón de España y en su nombre se creó la orden religiosa y militar que lleva su nombre cuya función, en principio, era la de  proteger a los peregrinos del Camino de Santiago.  
 
+En el santoral católico el 25 de julio es el día de Santiago Apóstol, también llamado "el Mayor" fue el hermano de San Juan el Evangelista; Santiago fue uno de los más cercanos a Jesús, impulsivo y de temperamento ardiente se ganó el epíteto de *"Hijo del Trueno"* (Marcos 3:13–17). Después de la Ascención de Cristo partió a predicar en Hispania, a su regreso a Jerusalén fue apresado y decapitado por orden de Herodes Agripa - Circa 44 d.C. - siendo así, el primero de los apóstoles en ser martirizado.  
+
+En Santiago de Compostela se celebra el año jubilar cada vez que el 25 de julio, día de Santiago el Mayor, coincide en domingo. Sucede con una secuencia temporal de seis, cinco, seis y once años.
 </div>  
 
 <div class="purple-river">
