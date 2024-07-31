@@ -77,7 +77,7 @@ Este es el mes dedicado a uno de los santos más populares de la cristiandad des
 </div>
 
 <div id="serra" class="full-width">
-<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/ar_16:9,c_fill,e_sharpen,g_auto,h_375,w_1000/v1711594290/IMG_1620_kjrplp.jpg"/>
+<img class="wide" src="https://res.cloudinary.com/magnvs/image/upload/v1722418012/Imagen_HEIF_wx5qqw.heic"/>
 </div>
 
 <div class="nakedLink">
