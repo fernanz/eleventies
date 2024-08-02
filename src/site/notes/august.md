@@ -1,7 +1,7 @@
 ---
 title: Agosto 2024 
-excerpt: Mes del Apostol Santiago.
-date: 2024-08-03
+excerpt: Dedicado a Nuestra Señora
+date: 2024-08-02
 ---
 
 <div class="intro">
