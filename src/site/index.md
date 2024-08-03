@@ -7,9 +7,9 @@ layout: layouts/base.njk
 ## Agosto 2024
 
 <div class="intro">
-En agosto, entre el 10 y el 14, presenciaremos un evento celeste en plenitud: la *Lluvia de las Perseidas* o *Lágrimas de San Lorenzo*, es una "lluvia" de estrellas fugaces que "da la impresión" que procede de la constelación de Perseo y se la puede observar a simple vista sin necesidad de un telescopio. Aunque visisble todo el mes en el hemisferio Norte, en Ecuador el mejor sitio para observar este fenómeno es en el Parque Nacional Cotopaxi. Su nombre está relacionado en primer lugar al mito del origen del semidios Perseo, de como su madre Dánae fue fecundada por Zeus transformado en lluvia dorada; luego para los cristianos, este fenómeno representa las lágrimas doradas que brotaron de San Lorenzo durante su terrible martirio en la parrilla.
+En agosto, entre el 10 y el 14, presenciaremos un evento celeste en plenitud: la "Lluvia de las Perseidas" o "Lágrimas de San Lorenzo", es una "lluvia" de estrellas fugaces que "da la impresión" que procede de la constelación de Perseo y se la puede observar a simple vista sin necesidad de un telescopio. Aunque visisble todo el mes en el hemisferio Norte, en Ecuador el mejor sitio para observar este fenómeno es en el Parque Nacional Cotopaxi. Su nombre está relacionado en primer lugar al mito del origen del semidios Perseo, de como su madre Dánae fue fecundada por Zeus transformado en lluvia dorada; luego para los cristianos, este fenómeno representa las lágrimas doradas que brotaron de San Lorenzo durante su terrible martirio en la parrilla.
 <br/><br/>
-*"Sextilis"* era el sexto mes del primitivo calendario lunar romano, el cual, a partir del año 8 a.C. pasó a llamarse Augustus *"Agosto"* en honor al primer emperador de Roma: Cayo Julio César Augusto, también conocido como Octaviano.  
+"Sextilis" era el sexto mes del primitivo calendario lunar romano, el cual, a partir del año 8 a.C. pasó a llamarse Augustus "Agosto" en honor al primer emperador de Roma: Cayo Julio César Augusto, también conocido como Octaviano.  
 </div>
 
 **Data de almanaques y medios digitales:**
