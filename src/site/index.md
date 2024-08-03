@@ -92,7 +92,7 @@ Uno de los santos más populares de la cristiandad desde tiempos medievales; apo
 
 En el santoral católico el 25 de julio es el día de Santiago Apóstol, también llamado "el Mayor" fue el hermano de San Juan el Evangelista; Santiago fue uno de los más cercanos a Jesús, impulsivo y de temperamento ardiente se ganó el epíteto de *"Hijo del Trueno"* (Marcos 3:13–17). Después de la Ascención de Cristo partió a predicar en Hispania, a su regreso a Jerusalén fue apresado y decapitado por orden de Herodes Agripa - Circa 44 d.C. - siendo así, el primero de los apóstoles en ser martirizado.  
 
-En Santiago de Compostela se celebra el año jubilar cada vez que el 25 de julio, día de Santiago el Mayor, coincide en domingo. Sucede con una secuencia temporal de seis, cinco, seis y once años. El próximo año jubilar Compostelano será el 2027.
+En Santiago de Compostela se celebra el año jubilar cada vez que el 25 de julio coincide en domingo. El próximo año jubilar Compostelano será el 2027.
 </div>  
 
 <div class="purple-river">
@@ -112,8 +112,8 @@ La versión física del libro la adquirí en la Librería Española, está en US
 </div>  
 
 <figure>
-<img class="fit" src="https://res.cloudinary.com/magnvs/image/upload/v1711656482/IMG_20210518_131436_c8r70x.jpg"/>
-<figcaption> Carlos Aurelio Rubira (2021). Detalle del retrato realizado por la artista Hellen Constante para la ciudad de Ambato.</figcaption>
+<img class="fit" src="//res.cloudinary.com/magnvs/image/upload/IMG_20240726_172141_kllzl2.jpg"/>
+<figcaption> Esquina de las calles Rocafuerte y Rafael Morales, parque central del Cantón Pujilí, prov. de Cotopaxi (2024).</figcaption>
 </figure>
 
 <div class="no-river">
