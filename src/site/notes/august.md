@@ -1,6 +1,6 @@
 ---
 title: Agosto 2024 
-excerpt: Dedicado a Nuestra Señora
+excerpt: El mes de las Perseidas
 date: 2024-08-02
 ---
 
