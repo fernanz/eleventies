@@ -4,38 +4,36 @@ subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y lite
 layout: layouts/base.njk
 ---
 
-## Julio 2024
+## Agosto 2024
 
 <div class="intro">
-
-Este es el mes dedicado a uno de los santos más populares de la cristiandad desde tiempos medievales; apostol, peregrino y caballero: *Santiago el Mayor*. De perfil legendario jugó un papel importante en el imaginario popular del período de Reconquista hispano a finales del siglo XV, convirtiéndose en el protector de la cristiandad contra los musulmanes e incluso llegando a América con los conquistadores quienes en su honor bautizaron varias de sus fundaciones con su nombre como es el caso de Santiago de Guayaquil, Santiago de Chile, Santiago de Cuba y Santiago de los Caballeros (República Dominicana), entre otras. Santiago es el Patrón de España y en su nombre se creó la orden religiosa y militar que lleva su nombre cuya función, en principio, era la de  proteger a los peregrinos del Camino de Santiago.
+En agosto, entre el 10 y el 14, presenciaremos un evento celeste en plenitud: la *Lluvia de las Perseidas* o *Lágrimas de San Lorenzo*, es una "lluvia" de estrellas fugaces que "da la impresión"" que procede de la constelación de Perseo y se la puede observar a simple vista sin necesidad de un telescopio. Aunque visisble todo el mes en el hemisferio Norte, en Ecuador el mejor sitio para observar este fenómeno es en el Parque Nacional Cotopaxi. Su nombre está relacionado en primer lugar al mito del origen del semidios Perseo, de como su madre Dánae fue fecundada por Zeus transformado en lluvia dorada; luego para los cristianos, este fenómeno representa las lágrimas doradas que brotaron de San Lorenzo durante su terrible martirio en la parrilla.
 <br/><br/>
-*"Quintilis"* era el quinto mes del primitivo calendario lunar romano, calendario que fue reformado por Julio César en el año 46 a.C. adaptándolo a los ciclos estacionales producidos por el movimiento solar. Después del asesinato de Julio César (44 a.C.), para honrar su memoria se cambió el nombre de Quintilis por el de Iulius *"Julio"*.
+*"Sextilis"* era el sexto mes del primitivo calendario lunar romano, el cual, a partir del año 8 a.C. pasó a llamarse Augustus *"Agosto"* en honor al primer emperador de Roma: Cayo Julio César Augusto, también conocido como Octaviano.  
 </div>
 
 **Data de almanaques y medios digitales:**
 
-- Cada 26 de julio, inicia el año nuevo según el calendario de los antiguos mayas (Sincronario Maya Galáctico); este año 2024 pasaremos del kin "Mago entonado blanco" al **"Tormenta rítmica azul"**. En consecuencia, cada 25 de julio, en este calendario, da término al año; este es el "Día fuera de tiempo", un día de reflexión y preparación para el nuevo ciclo que inicia al día siguiente.  Más detalles en este artículo del [Clarin](https://www.clarin.com/astrologia/calendario-maya-2024-energias-sincronario-maya-galactico-ano-comienza_0_bzG2Nyfqih.html).  
-- El 4 de julio Estados Unidos celebra el **Día de la Independencia** cuya declaración se firmó en 1776.  
-- En nuestro país, julio, no tiene feriados nacionales; sin embargo hay una extensa agenda de feriados locales, la mayoría celebran fechas de cantonización o creación. El diario [El Universo](https://www.eluniverso.com/noticias/ecuador/que-dias-son-feriado-en-julio-del-2024-en-ecuador-nota/) recoge las fechas más notadas para Ecuador en este mes.  
-- El 24 de julio (1783) se conmemora el natalicio del Gral. Simón Bolívar, militar y político venezolano que logró la independencia de la Corona Española de Venezuela, Colombia, Ecuador, Perú y Bolivia. Creó la Gran Colombia, estado que se desintegró en 1830 el mismo año de su muerte.
-- El 25 de julio, Santiago de Guayaquil celebra 489 años de Fundación. Con una extensa [Agenda de actividades](https://www.guayaquil.gob.ec/wp-content/uploads/2024/07/Calendario-de-Actividades-Julio-2024.pdf), la M. I. Municipalidad de Guayaquil hace homenaje todo el mes -fiestas julianas- a la ciudad.  A diferencia de muchas de las ciudades fundadas por los conquistadores hispanos, la fecha exacta en que Guayaquil fue fundada ha sido tema de controversia dándose varias hipótesis y ninguna conclusión aceptada oficialmente; fue así que, en 1929 el Concejo Municipal decidió fijar el 25 de julio de 1535 como fecha de Fundación, además este día coincide con el del santo patrón de la ciudad, el Apóstol Santiago. 
-- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de julio se la llama LUNA DE TRUENO / LUNA DE CIERVO,  es la luna de las tormentas de verano, la época en que los ciervos arrojan sus astas para volverlas a crecer más fuertes y renovadas.  
-- En julio tendremos una **luna nueva en cáncer** y la **luna llena en capricornio**, período entre lunas que nos invita a salir de nuestra zona de confort; además, para los astrológos este será un mes donde veremos desmoronarse algunas estructuras sociales y económicas, es un mes que traerá el inicio de nuevas revoluciones.  
+- En el **calendario celta**, el 1 de agosto, señala uno de los cuatro mayores festivales del año: **Lughnasadh** es el festival de Lugh, dios celta de la luz, el fuego y los dones.  El nombre anglosajón de este festival es **Lammas** (*masa de pan*) es tiempo de gratitud por la abundancia de la Madre Tierra. Es el punto intermedio entre el solsticio de verano y el equinoccio de otoño.
+- El lunes 5 de agosto, Esmeraldas celebra su fecha de Independencia, es un feriado local. Fue en el año de 1820 cuando los pueblos de Esmeraldas y Río Verde se levantaron contra el dominio hispano, allí destacan los nombres del líder Manuel Víctor Lavayen y del cura Ramón Estupiñán. 
+- En nuestro país, agosto, tiene un feriado nacional: Diez de Agosto o el "Primer grito de Independencia", éste feriado obligatorio se traslada al viernes 9.  El Diez de agosto de 1809, un grupo de notables quiteños desconocieron la autoridad de la Corona Española impuesta por Napoleón en la persona de José Bonaparte y formaron una Junta de Gobierno autónoma. La Historia recuerda a personajes tales como Juan Pío Montúfar, Manuela Cañizares y José Cuero y Caicedo. 
+- El 19 de agosto (1821) recordamos la Batalla de Cone o Batalla de Yaguachi, uno de los enfrentamientos bélicos previos a la Batalla de Pichincha; tropas de la División Protectora de Quito (independentistas guayaquileños) con refuerzos de tropas grancolombianas y al mando del Gral. Antonio José de Sucre derrotaron a los realistas comandados por el coronel Francisco González. Yaguachí Viejo - Cone en la actualida es una parroquia rural del cantón Yaguachi (Guayas). 
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de agosto se la llama LUNA DE ESTURIÓN / LUNA DE TRIGO, es una luna generosa, es la luna de la cosecha en pleno apogeo, de la época en que abunda el pez esturión especialmente en los Grandes Lagos de Norte América. Esta es la tercera luna llena de cuatro que se esperan en esta estación, de allí que también se la denomina como "Luna azul".
+- En agosto tendremos una **superluna llena en acuario**, así como la luna llena de julio trajo el inicio de nuevas revoluciones, ahora es tiempo de romper con las viejas tradiciones y apostar por la innovación.  
 - Para julio tenemos las siguientes fases lunares, hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
 
 | Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
-| Nueva           |   Viernes 05.07.2024   	| 17:57 |
-| Creciente    |  Sábado 13.07.2024   	| 17:48 |
-| Llena |  Domingo 21.07.2024   	| 05:17 |  
-| Menguante        |   Sábado 27.07.2024   	| 21:51 |  
+| Nueva           |   Domingo 04.08.2024   	| 06:12 |
+| Creciente    |  Lunes 12.08.2024   	| 10:18 |
+| Llena |  Lunes 19.08.2024   	| 13:25 |  
+| Menguante        |   Lunes 26.08.2024   	| 04:25 |  
 
 <br/>  
 
-- En el santoral católico el 25 de julio es el día de Santiago Apóstol, también llamado "el Mayor" fue el hermano de San Juan el Evangelista; Santiago fue uno de los más cercanos a Jesús, impulsivo y de temperamento ardiente se ganó el epíteto de *"Hijo del Trueno"* (Marcos 3:13–17). Después de la Ascención de Cristo partió a predicar en Hispania, a su regreso a Jerusalén fue apresado y decapitado por orden de Herodes Agripa - Circa 44 d.C. - siendo así, el primero de los apóstoles en ser martirizado.
+- En el santoral católico el recordamos los siguientes: <u>8 de agosto</u>, **Santo Domingo de Guzmán** (1170-1221), fundador de la orden mendicante que lleva su nombre, orden que popularizó el rosario e hizo uso de él para conseguir adeptos.  <u>10 de agosto</u>, **San Lorenzo, Mártir** (?-258), diácono que padeció durante la persecución del emperador romano Valeriano, se dice que el terrible martirio que soportó con heroica fortaleza hizo que varios senadores que lo presenciaron se convirtieran al cristianismo; San Lorenzo fue quemado lentamente sobre una parrilla. <u>18 de agosto</u>, **Santa Elena** (?-329), madre del emperador romano Constantino el Grande, su vida está ligada a la búsqueda y encuentro de la Santa Cruz en Tierra Santa. <u>23 de agosto</u>, **Santa Rosa de Lima** (1586-1617), la primera santa de América, considerada como la creadora de los servicios sociales en el Virreinato del Perú. <u>25 de agosto</u>, **San Luis, Rey** (1214-1270), Rey de Francia que encabezó dos cruzadas hacia Oriente *-1238 y 1267-*. <u>28 de agosto</u>, **San Agustín de Hipona** (354-430), Obispo de Hipona y Doctor de la Iglesia, fundó la orden religiosa que lleva su nombre.
 
 ### Revisa los meses anteriores:
 
