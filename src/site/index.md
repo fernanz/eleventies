@@ -97,7 +97,7 @@ Después de la Ascención de Cristo partió a predicar en Hispania. Allí, estan
 
 A su regreso a Jerusalén fue apresado y decapitado por orden de Herodes Agripa - Circa 44 d.C. - siendo así, el primero de los apóstoles en ser martirizado. Dos de sus discípulos recogieron su cuerpo y lo llevaron de vuelta a Hispania para sepultarlo, llegando hasta Galicia.
 
-Varios siglos después de perdida la memoria del sitio exacto del entierro del santo, fue en el siglo IX, cuando era obispo de Iría Flavia, Teodomiro cuando se descubrió un sarcófago de mármol que contenía los restos de Santiago y de sus discípulos. Fue allí en el lugar señalado por la estrella al ermitaño Pelagio, en el “campus estellae”, actual Compostela. Allí se construyó el templo que se convertiría en uno de sitios de peregrinación medieval tan importante como Roma y Jerusalén.  
+Varios siglos después de perdida la memoria del sitio exacto del entierro del santo, fue en el siglo IX, cuando era obispo de Iría Flavia, Teodomiro que se descubrió un sarcófago de mármol que contenía los restos de Santiago y de sus discípulos. Fue allí en el lugar señalado por la estrella al ermitaño Pelagio, en el “campus estellae”, actual Compostela. Allí se construyó el templo que se convertiría en uno de sitios de peregrinación medieval tan importante como Roma y Jerusalén.  
 
 En Santiago de Compostela se celebra el año jubilar cada vez que el 25 de julio coincide en domingo. El próximo año jubilar Compostelano será el 2027.
 </div>  
