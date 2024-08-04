@@ -21,7 +21,7 @@ En agosto, entre el 10 y el 14, presenciaremos un evento celeste en plenitud: la
 - El 19 de agosto (1821) recordamos la Batalla de Cone o Batalla de Yaguachi, uno de los enfrentamientos bélicos previos a la Batalla de Pichincha; tropas de la División Protectora de Quito (independentistas guayaquileños) con refuerzos de tropas grancolombianas y al mando del Gral. Antonio José de Sucre derrotaron a los realistas comandados por el coronel Francisco González. Yaguachí Viejo - Cone, en la actualidad es una parroquia rural del cantón Yaguachi (Guayas). 
 - En las tradiciones del hemisferio norte (América y Europa), a la luna llena de agosto se la llama LUNA DE ESTURIÓN / LUNA DE TRIGO, es una luna generosa, es la luna de la cosecha en pleno apogeo, de la época en que abunda el pez esturión especialmente en los Grandes Lagos de Norte América. Esta es la tercera luna llena de cuatro que se esperan en esta estación, de allí que también se la denomina como "Luna azul".
 - En agosto tendremos una **superluna llena en acuario**, así como la luna llena de julio trajo el inicio de nuevas revoluciones, ahora es tiempo de romper con las viejas tradiciones y apostar por la innovación.  
-- Para julio tenemos las siguientes fases lunares, hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
+- Este mes tenemos las siguientes fases lunares, hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
 
