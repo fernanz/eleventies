@@ -4,37 +4,37 @@ subtitle: Sitio de Fernando Mayorga para compartir historias, mitos, arte y lite
 layout: layouts/base.njk
 ---
 
-## Agosto 2024
+## Septiembre 2024
 
 <div class="intro">
-En agosto, entre el 10 y el 14, presenciaremos un evento celeste en plenitud: la "Lluvia de las Perseidas" o "Lágrimas de San Lorenzo", es una "lluvia" de estrellas fugaces que "da la impresión" que procede de la constelación de Perseo y se la puede observar a simple vista sin necesidad de un telescopio. Aunque visisble todo el mes en el hemisferio Norte, en Ecuador el mejor sitio para observar este fenómeno es en el Parque Nacional Cotopaxi. Su nombre está relacionado en primer lugar al mito del origen del semidios Perseo, de como su madre Dánae fue fecundada por Zeus transformado en lluvia dorada; luego para los cristianos, este fenómeno representa las lágrimas doradas que brotaron de San Lorenzo durante su terrible martirio en la parrilla.
-<br/><br/>
-"Sextilis" era el sexto mes del primitivo calendario lunar romano, el cual, a partir del año 8 a.C. pasó a llamarse Augustus "Agosto" en honor al primer emperador de Roma: Cayo Julio César Augusto, también conocido como Octaviano.  
+
+Este era el séptimo -**"September"**- mes en el primitivo calendario lunar romano, de allí su nombre. Septiembre marca un nuevo cambio de estación por su equinoccio, en el hemisferio se inicia el Otoño, en el sur la Primavera; en los andes es momento de celebrar un nuevo raymi, "Kuya" o "Killa Raymi" la festividad de la Luna, la feminidad y de la siembra. En este mes una gran parte del mundo se prepara para el inicio del año escolar.
+
 </div>
 
 **Data de almanaques y medios digitales:**
 
-- En el **calendario celta**, el 1 de agosto, señala uno de los cuatro mayores festivales del año: **Lughnasadh** o el festival de Lugh, dios celta de la luz, el fuego y los dones.  El nombre anglosajón de este festival es **Lammas** (*masa de pan*) es tiempo de gratitud por la abundancia de la Madre Tierra. Es el punto intermedio entre el solsticio de verano y el equinoccio de otoño.
-- El lunes 5 de agosto, Esmeraldas celebra su fecha de Independencia, es un feriado local. Fue en el año de 1820 cuando los pueblos de Esmeraldas y Río Verde se levantaron contra el dominio hispano, allí destacan los nombres del líder Manuel Víctor Lavayen y del cura Ramón Estupiñán. 
-- En nuestro país, agosto, tiene un feriado nacional: Diez de Agosto o el "Primer grito de Independencia", éste feriado obligatorio se traslada al viernes 9.  El Diez de agosto de 1809, un grupo de notables quiteños desconocieron la autoridad de la Corona Española impuesta por Napoleón en la persona de José Bonaparte y formaron una Junta de Gobierno autónoma. La Historia recuerda a personajes tales como Juan Pío Montúfar, Manuela Cañizares y José Cuero y Caicedo. 
-- El viernes 16 es el día principal de las fiestas patronales de San Jacinto de Yaguachi (Guayas), la romeria y la visita a la basilica menor del santo están entre las actividades principales.  
-- El 19 de agosto (1821) recordamos la Batalla de Cone o Batalla de Yaguachi, uno de los enfrentamientos bélicos previos a la Batalla de Pichincha; tropas de la División Protectora de Quito (independentistas guayaquileños) con refuerzos de tropas grancolombianas y al mando del Gral. Antonio José de Sucre derrotaron a los realistas comandados por el coronel Francisco González. Yaguachí Viejo - Cone, en la actualidad es una parroquia rural del cantón Yaguachi (Guayas). 
-- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de agosto se la llama LUNA DE ESTURIÓN / LUNA DE TRIGO, es una luna generosa, es la luna de la cosecha en pleno apogeo, de la época en que abunda el pez esturión especialmente en los Grandes Lagos de Norte América. Esta es la tercera luna llena de cuatro que se esperan en esta estación, de allí que también se la denomina como "Luna azul".
-- En agosto tendremos una **superluna llena en acuario**, así como la luna llena de julio trajo el inicio de nuevas revoluciones, ahora es tiempo de romper con las viejas tradiciones y apostar por la innovación.  
-- Este mes tenemos las siguientes fases lunares, hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
+- El primer lunes de septiembre Estados Unidos y Canadá celebran el Día del Trabajo *"Labor Day"*, este año cae en el segundo día del mes. Se honra y se celebran la contribución del movimiento laboral.  
+- El 14 de septiembre, tanto católicos como ortodoxos celebran la **Exaltación de la Santa Cruz** festividad que honra la cruz en la que Jesús de Nazaret hizo su sacrificio. Hacia el año 320 Santa Elena emperatriz encontró la Vera Cruz en Jerusalén, siglos después en el 614 Cosroes II de Persia invade la ciudad y se lleva la cruz; sin embargo, el emperador Heraclio la recupera y la retorna a Jerusalén con una ceremonia que recorrió la ciudad presidida por él mismo, fue el 14 de septiembre del 628 d.C.
+- En el **calendario celta**, con la llegada del equinoccio de Otoño (para el hemisferio Norte), que este mes sucede el domingo 22 (12:43 GMT), se celebra el festival solar de la recogida de la cosecha y la celebración de la abundancia de la Tierra antes de la llegada del Invierno; a esta festividad también la conocen como el Banquete de Avalon *"Feast of Avalon"*. Para algunas religiones paganas, este equinoccio, es la festividad de **Mabon** o "el banquete", el Festival de Dionisos, Cornucopia; para los druidas en cambio era *Alban Elfed* o "La luz del agua".
+- El equinoccio de septiembre, para Ecuador y parte de la región Andina (GMT -5) sucederá el mismo día domingo 22 de marzo a las 07:43.
+- El jueves 26 de septiembre celebramos el **Día de la Bandera Nacional**. (Decreto del Congreso Nacional, 1955). 
+- En las tradiciones del hemisferio norte (América y Europa), a la luna llena de septiembre se la denomina LUNA DE LA COSECHA, es tiempo de la segunda cosecha anual importante para almacenar el alimento para los meses fríos que se aproximan; algunas culturas nativas de Norte América también la conocen como LUNA LLENA DEL MAÍZ, en referencia a que el maís debe ser cosechado en estas regiones. 
+- En este mes tendremos una **luna llena en Piscis**, en esta ocasión habrá un **eclipse lunar parcial** (*una parte del disco lunar esta oscura*). Este eclipse será completamente visible en América del Sur, el Este de Norte América y, el Oeste de Europa y Africa.  
+- Se esperan las siguientes fases lunares hora de Ecuador (GMT -5) según [Lunarium](https://www.lunarium.co.uk) :
 
 <br/>  
 
 | Fase lunar              | Fecha 	| Hora |
 | :---------------- | :------  	| :---- |
-| Nueva           |   Domingo 04.08.2024   	| 06:12 |
-| Creciente    |  Lunes 12.08.2024   	| 10:18 |
-| Llena |  Lunes 19.08.2024   	| 13:25 |  
-| Menguante        |   Lunes 26.08.2024   	| 04:25 |  
+| Nueva           |   Lunes 02.09.2024   	| 20:55 |
+| Creciente    |  Miércoles 11.09.2024   	| 01:05 |
+| Llena |  Martes 17.09.2024   	| 21:34 |  
+| Menguante        |   Martes 24.09.2024   	| 13:49 |
 
 <br/>  
 
-- En el santoral católico el recordamos los siguientes: <u>8 de agosto</u>, **Santo Domingo de Guzmán** (1170-1221), fundador de la orden mendicante que lleva su nombre, orden que popularizó el rosario e hizo uso de él para conseguir adeptos.  <u>10 de agosto</u>, **San Lorenzo, Mártir** (?-258), diácono que padeció durante la persecución del emperador romano Valeriano, se dice que el terrible martirio que soportó con heroica fortaleza hizo que varios senadores que lo presenciaron se convirtieran al cristianismo; San Lorenzo fue quemado lentamente sobre una parrilla. <u>18 de agosto</u>, **Santa Elena** (?-329), madre del emperador romano Constantino el Grande, su vida está ligada a la búsqueda y encuentro de la Santa Cruz en Tierra Santa. <u>23 de agosto</u>, **Santa Rosa de Lima** (1586-1617), la primera santa de América, considerada como la creadora de los servicios sociales en el Virreinato del Perú. <u>25 de agosto</u>, **San Luis, Rey** (1214-1270), Rey de Francia que encabezó dos cruzadas hacia Oriente *-1238 y 1267-*. <u>28 de agosto</u>, **San Agustín de Hipona** (354-430), Obispo de Hipona y Doctor de la Iglesia, fundó la orden religiosa que lleva su nombre.
+- Concluímos con las siguientes fechas importantes en el santoral católico: <u>16 de septiembre</u>, **San Cipriano, Obispo y Mártir** (?-258), Obispo de Cártago padeció la persecución de los emperadores Valeriano y Galieno muriendo decapitado por su fe; los cristianos le rezan para pedir ayuda ante las adversidades económicas, par deshacer hechizos y trabajos de magia negra. A este santo e le atribuye *"El libro de San Cipriano"* el cual es un grimorio muy controversial. <u>21 de septiembre</u>, **San Mateo Evangelista y Apóstol**, Publicano converso, autor del evangelio que lleva su nombre del cual se dice lo escribió en arameo alredor del año 70 d.C. Después de la muerte de Jesús partió a predicar en Etiopía durante largos años hasta el día en que murió martirizado. <u>29 de septiembre</u>, **San Gabriel Arcángel, San Miguel Arcángel, San Rafael Arcángel** Según la Biblia (Tobias 12, 15; Revelaciones 8, 2) hay 7 Arcángeles que tienen acceso a la presencia del Señor, sin embargo solo da nombre a tres de ellos: **Gabriel** "Fortaleza de Dios", **Miguel** "¡Quién como Dios?" y **Rafael** "Dios sana". San Miguel es "uno de los principales príncipes" (Libro de Daniel 10,13; 10,21; 12,1) y en la Iglesia Católica siempre ha tenido una gran devoción por su poder para liberar de los ataques del demonio.  <u>30 de septiembre</u>, **San Jerónimo** (?-419), Doctor máximo de la Iglesia, presbítero y anacoreta, traductor de la versión oficial de las sagradas Escrituras al latín, patrón de los bibliófilos y traductores. 
 
 ### Revisa los meses anteriores:
 
