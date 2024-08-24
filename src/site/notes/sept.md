@@ -1,7 +1,7 @@
 ---
 title: Septiembre 2024 
 excerpt: Mes del Killa Raymi.
-date: 2024-09-01
+date: 2024-08-24
 ---
 
 <div class="intro">
