@@ -140,12 +140,11 @@ p {
 }
 
 .intro {
-  font-family: 'PT Serif', serif;
-  font-size: 1.4;
-  font-weight: 400;
-  font-style: italic;
-  text-align: center;
-  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: left;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
   color:#646464;
