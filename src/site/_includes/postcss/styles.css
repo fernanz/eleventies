@@ -116,7 +116,7 @@ h1 {
   margin-top:0.4em;
   margin-bottom:0.2em;
   line-height: 1;
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Anton", sans-serif;
   font-style: normal;
 
   @media (min-width: $mid) {
