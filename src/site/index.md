@@ -47,7 +47,7 @@ Este era el séptimo -**"September"**- mes en el primitivo calendario lunar roma
 <br/>  
 <div class="artic-sky">
 
-<h2>Artículos destacados</h2><p><small>Este es el último año de nuestra vida tal como la conocíamos?</small></p>
+<h2>Artículos destacados</h2><p><small>Este es el último año de nuestra vida tal como la conocíamos</small></p>
 
 {% for page in collections.article | reverse %}
 
